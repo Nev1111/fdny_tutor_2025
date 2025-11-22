@@ -16,8 +16,8 @@ import streamlit as st
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQA
-from langchain.prompts import PromptTemplate
-from langchain.schema import HumanMessage, SystemMessage
+from langchain_core.prompts import PromptTemplate
+from langchain_core.messages import HumanMessage, SystemMessage
 
 # Load environment
 load_dotenv()
