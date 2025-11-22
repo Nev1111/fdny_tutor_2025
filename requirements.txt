@@ -1,0 +1,21 @@
+# FDNY Tutor 2025 - Dependencies
+# Core Framework
+streamlit>=1.45.0
+
+# LLM & AI
+openai>=1.78.0
+langchain>=0.3.25
+langchain-community>=0.3.24
+langchain-openai>=0.3.0
+langchain-text-splitters>=0.3.8
+
+# Vector Store
+faiss-cpu>=1.11.0
+chromadb>=1.0.0
+
+# PDF Processing
+PyMuPDF>=1.25.0
+
+# Utilities
+python-dotenv>=1.1.0
+tqdm>=4.67.0

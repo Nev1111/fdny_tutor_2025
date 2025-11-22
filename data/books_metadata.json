@@ -1,0 +1,5355 @@
+{
+  "total_categories": 22,
+  "total_documents": 1030,
+  "total_pages": 7990,
+  "categories": [
+    {
+      "category": "01_All Unit Circulars (AUCs)",
+      "filename": "01_All_Unit_Circulars_AUCs.md",
+      "document_count": 233,
+      "total_pages": 1345,
+      "chapters": [
+        {
+          "name": "000 AUC-cover",
+          "source": "01_All Unit Circulars (AUCs)/000_AUC-cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "000 AUC-index",
+          "source": "01_All Unit Circulars (AUCs)/000_AUC-index.pdf",
+          "pages": 10
+        },
+        {
+          "name": "001",
+          "source": "01_All Unit Circulars (AUCs)/001.pdf",
+          "pages": 4
+        },
+        {
+          "name": "002",
+          "source": "01_All Unit Circulars (AUCs)/002.pdf",
+          "pages": 10
+        },
+        {
+          "name": "002a1",
+          "source": "01_All Unit Circulars (AUCs)/002a1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "003",
+          "source": "01_All Unit Circulars (AUCs)/003.pdf",
+          "pages": 2
+        },
+        {
+          "name": "004",
+          "source": "01_All Unit Circulars (AUCs)/004.pdf",
+          "pages": 6
+        },
+        {
+          "name": "005ch1",
+          "source": "01_All Unit Circulars (AUCs)/005ch1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch2",
+          "source": "01_All Unit Circulars (AUCs)/005ch2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch2a1",
+          "source": "01_All Unit Circulars (AUCs)/005ch2a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch2a2",
+          "source": "01_All Unit Circulars (AUCs)/005ch2a2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005ch2a3",
+          "source": "01_All Unit Circulars (AUCs)/005ch2a3.pdf",
+          "pages": 12
+        },
+        {
+          "name": "005ch2a4",
+          "source": "01_All Unit Circulars (AUCs)/005ch2a4.pdf",
+          "pages": 8
+        },
+        {
+          "name": "005ch2a5",
+          "source": "01_All Unit Circulars (AUCs)/005ch2a5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch2a6",
+          "source": "01_All Unit Circulars (AUCs)/005ch2a6.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch2a7",
+          "source": "01_All Unit Circulars (AUCs)/005ch2a7.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch2a8",
+          "source": "01_All Unit Circulars (AUCs)/005ch2a8.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch2a9",
+          "source": "01_All Unit Circulars (AUCs)/005ch2a9.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch2a10",
+          "source": "01_All Unit Circulars (AUCs)/005ch2a10.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch3",
+          "source": "01_All Unit Circulars (AUCs)/005ch3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch3a1",
+          "source": "01_All Unit Circulars (AUCs)/005ch3a1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "005ch3a2",
+          "source": "01_All Unit Circulars (AUCs)/005ch3a2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005ch3a3",
+          "source": "01_All Unit Circulars (AUCs)/005ch3a3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch3a4",
+          "source": "01_All Unit Circulars (AUCs)/005ch3a4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch3a5",
+          "source": "01_All Unit Circulars (AUCs)/005ch3a5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch3a6",
+          "source": "01_All Unit Circulars (AUCs)/005ch3a6.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch3a7",
+          "source": "01_All Unit Circulars (AUCs)/005ch3a7.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch4",
+          "source": "01_All Unit Circulars (AUCs)/005ch4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch4a1",
+          "source": "01_All Unit Circulars (AUCs)/005ch4a1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "005ch4a2",
+          "source": "01_All Unit Circulars (AUCs)/005ch4a2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch4a3",
+          "source": "01_All Unit Circulars (AUCs)/005ch4a3.pdf",
+          "pages": 6
+        },
+        {
+          "name": "005ch4a4",
+          "source": "01_All Unit Circulars (AUCs)/005ch4a4.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005ch4a5",
+          "source": "01_All Unit Circulars (AUCs)/005ch4a5.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005ch4a6",
+          "source": "01_All Unit Circulars (AUCs)/005ch4a6.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005ch4a7",
+          "source": "01_All Unit Circulars (AUCs)/005ch4a7.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005ch4a8",
+          "source": "01_All Unit Circulars (AUCs)/005ch4a8.pdf",
+          "pages": 2
+        },
+        {
+          "name": "006",
+          "source": "01_All Unit Circulars (AUCs)/006.pdf",
+          "pages": 4
+        },
+        {
+          "name": "006A1",
+          "source": "01_All Unit Circulars (AUCs)/006A1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "007",
+          "source": "01_All Unit Circulars (AUCs)/007.pdf",
+          "pages": 4
+        },
+        {
+          "name": "008",
+          "source": "01_All Unit Circulars (AUCs)/008.pdf",
+          "pages": 2
+        },
+        {
+          "name": "082",
+          "source": "01_All Unit Circulars (AUCs)/082.pdf",
+          "pages": 2
+        },
+        {
+          "name": "149",
+          "source": "01_All Unit Circulars (AUCs)/149.pdf",
+          "pages": 26
+        },
+        {
+          "name": "150",
+          "source": "01_All Unit Circulars (AUCs)/150.pdf",
+          "pages": 8
+        },
+        {
+          "name": "151",
+          "source": "01_All Unit Circulars (AUCs)/151.pdf",
+          "pages": 26
+        },
+        {
+          "name": "159",
+          "source": "01_All Unit Circulars (AUCs)/159.pdf",
+          "pages": 22
+        },
+        {
+          "name": "159a1",
+          "source": "01_All Unit Circulars (AUCs)/159a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "159a2",
+          "source": "01_All Unit Circulars (AUCs)/159a2.pdf",
+          "pages": 6
+        },
+        {
+          "name": "159a3",
+          "source": "01_All Unit Circulars (AUCs)/159a3.pdf",
+          "pages": 22
+        },
+        {
+          "name": "159a4",
+          "source": "01_All Unit Circulars (AUCs)/159a4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "159a5",
+          "source": "01_All Unit Circulars (AUCs)/159a5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "159a6",
+          "source": "01_All Unit Circulars (AUCs)/159a6.pdf",
+          "pages": 6
+        },
+        {
+          "name": "159a7",
+          "source": "01_All Unit Circulars (AUCs)/159a7.pdf",
+          "pages": 6
+        },
+        {
+          "name": "159a8",
+          "source": "01_All Unit Circulars (AUCs)/159a8.pdf",
+          "pages": 4
+        },
+        {
+          "name": "159a9",
+          "source": "01_All Unit Circulars (AUCs)/159a9.pdf",
+          "pages": 6
+        },
+        {
+          "name": "159a10",
+          "source": "01_All Unit Circulars (AUCs)/159a10.pdf",
+          "pages": 18
+        },
+        {
+          "name": "162",
+          "source": "01_All Unit Circulars (AUCs)/162.pdf",
+          "pages": 20
+        },
+        {
+          "name": "163",
+          "source": "01_All Unit Circulars (AUCs)/163.pdf",
+          "pages": 22
+        },
+        {
+          "name": "180",
+          "source": "01_All Unit Circulars (AUCs)/180.pdf",
+          "pages": 12
+        },
+        {
+          "name": "180a1",
+          "source": "01_All Unit Circulars (AUCs)/180a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "180a2",
+          "source": "01_All Unit Circulars (AUCs)/180a2.pdf",
+          "pages": 6
+        },
+        {
+          "name": "181",
+          "source": "01_All Unit Circulars (AUCs)/181.pdf",
+          "pages": 18
+        },
+        {
+          "name": "182",
+          "source": "01_All Unit Circulars (AUCs)/182.pdf",
+          "pages": 4
+        },
+        {
+          "name": "183",
+          "source": "01_All Unit Circulars (AUCs)/183.pdf",
+          "pages": 8
+        },
+        {
+          "name": "184",
+          "source": "01_All Unit Circulars (AUCs)/184.pdf",
+          "pages": 2
+        },
+        {
+          "name": "184a1",
+          "source": "01_All Unit Circulars (AUCs)/184a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "189",
+          "source": "01_All Unit Circulars (AUCs)/189.pdf",
+          "pages": 2
+        },
+        {
+          "name": "196",
+          "source": "01_All Unit Circulars (AUCs)/196.pdf",
+          "pages": 2
+        },
+        {
+          "name": "200",
+          "source": "01_All Unit Circulars (AUCs)/200.pdf",
+          "pages": 23
+        },
+        {
+          "name": "200a1",
+          "source": "01_All Unit Circulars (AUCs)/200a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "200a2",
+          "source": "01_All Unit Circulars (AUCs)/200a2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "202",
+          "source": "01_All Unit Circulars (AUCs)/202.pdf",
+          "pages": 12
+        },
+        {
+          "name": "202a1",
+          "source": "01_All Unit Circulars (AUCs)/202a1.pdf",
+          "pages": 12
+        },
+        {
+          "name": "202a2",
+          "source": "01_All Unit Circulars (AUCs)/202a2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "207",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207.pdf",
+          "pages": 16
+        },
+        {
+          "name": "207a3",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "207a4",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a4.pdf",
+          "pages": 4
+        },
+        {
+          "name": "207a7",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a7.pdf",
+          "pages": 4
+        },
+        {
+          "name": "207a8",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a8.pdf",
+          "pages": 4
+        },
+        {
+          "name": "207a9",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a9.pdf",
+          "pages": 6
+        },
+        {
+          "name": "207a9a",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a9a.pdf",
+          "pages": 2
+        },
+        {
+          "name": "207a9b",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a9b.pdf",
+          "pages": 4
+        },
+        {
+          "name": "207a10",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a10.pdf",
+          "pages": 4
+        },
+        {
+          "name": "207a11",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a11.pdf",
+          "pages": 2
+        },
+        {
+          "name": "207a12",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a12.pdf",
+          "pages": 6
+        },
+        {
+          "name": "207a13",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a13.pdf",
+          "pages": 4
+        },
+        {
+          "name": "207a14",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a14.pdf",
+          "pages": 2
+        },
+        {
+          "name": "207a16",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a16.pdf",
+          "pages": 4
+        },
+        {
+          "name": "207a17",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a17.pdf",
+          "pages": 2
+        },
+        {
+          "name": "207a18",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a18.pdf",
+          "pages": 2
+        },
+        {
+          "name": "207a21",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a21.pdf",
+          "pages": 2
+        },
+        {
+          "name": "207a22",
+          "source": "01_All Unit Circulars (AUCs)/207 - Subway & Railroad Track Operations/207a22.pdf",
+          "pages": 4
+        },
+        {
+          "name": "001 210 Cover",
+          "source": "01_All Unit Circulars (AUCs)/210 - NYFIRS/001_210 Cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 210 TOC",
+          "source": "01_All Unit Circulars (AUCs)/210 - NYFIRS/002_210 TOC.pdf",
+          "pages": 4
+        },
+        {
+          "name": "003 210 Chapter 1",
+          "source": "01_All Unit Circulars (AUCs)/210 - NYFIRS/003_210 Chapter 1.pdf",
+          "pages": 8
+        },
+        {
+          "name": "004 210 Chapter 2",
+          "source": "01_All Unit Circulars (AUCs)/210 - NYFIRS/004_210 Chapter 2.pdf",
+          "pages": 36
+        },
+        {
+          "name": "005 210 Chapter 3",
+          "source": "01_All Unit Circulars (AUCs)/210 - NYFIRS/005_210 Chapter 3.pdf",
+          "pages": 20
+        },
+        {
+          "name": "006 210 Chapter 4",
+          "source": "01_All Unit Circulars (AUCs)/210 - NYFIRS/006_210 Chapter 4.pdf",
+          "pages": 28
+        },
+        {
+          "name": "007 210 Chapter 5",
+          "source": "01_All Unit Circulars (AUCs)/210 - NYFIRS/007_210 Chapter 5.pdf",
+          "pages": 6
+        },
+        {
+          "name": "217",
+          "source": "01_All Unit Circulars (AUCs)/217.pdf",
+          "pages": 4
+        },
+        {
+          "name": "230",
+          "source": "01_All Unit Circulars (AUCs)/230.pdf",
+          "pages": 8
+        },
+        {
+          "name": "230a1",
+          "source": "01_All Unit Circulars (AUCs)/230a1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "230a2",
+          "source": "01_All Unit Circulars (AUCs)/230a2.pdf",
+          "pages": 6
+        },
+        {
+          "name": "230a3",
+          "source": "01_All Unit Circulars (AUCs)/230a3.pdf",
+          "pages": 12
+        },
+        {
+          "name": "231",
+          "source": "01_All Unit Circulars (AUCs)/231.pdf",
+          "pages": 4
+        },
+        {
+          "name": "248",
+          "source": "01_All Unit Circulars (AUCs)/248.pdf",
+          "pages": 4
+        },
+        {
+          "name": "254",
+          "source": "01_All Unit Circulars (AUCs)/254.pdf",
+          "pages": 8
+        },
+        {
+          "name": "254Appendix A",
+          "source": "01_All Unit Circulars (AUCs)/254Appendix A.pdf",
+          "pages": 2
+        },
+        {
+          "name": "254Appendix B",
+          "source": "01_All Unit Circulars (AUCs)/254Appendix B.pdf",
+          "pages": 2
+        },
+        {
+          "name": "259",
+          "source": "01_All Unit Circulars (AUCs)/259.pdf",
+          "pages": 6
+        },
+        {
+          "name": "259A1",
+          "source": "01_All Unit Circulars (AUCs)/259A1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "259a2",
+          "source": "01_All Unit Circulars (AUCs)/259a2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "264",
+          "source": "01_All Unit Circulars (AUCs)/264.pdf",
+          "pages": 8
+        },
+        {
+          "name": "266",
+          "source": "01_All Unit Circulars (AUCs)/266.pdf",
+          "pages": 10
+        },
+        {
+          "name": "266A1",
+          "source": "01_All Unit Circulars (AUCs)/266A1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "266A2",
+          "source": "01_All Unit Circulars (AUCs)/266A2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "266A3",
+          "source": "01_All Unit Circulars (AUCs)/266A3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "266A4",
+          "source": "01_All Unit Circulars (AUCs)/266A4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "268a",
+          "source": "01_All Unit Circulars (AUCs)/268a.pdf",
+          "pages": 4
+        },
+        {
+          "name": "268b",
+          "source": "01_All Unit Circulars (AUCs)/268b.pdf",
+          "pages": 4
+        },
+        {
+          "name": "268ba1",
+          "source": "01_All Unit Circulars (AUCs)/268ba1.pdf",
+          "pages": 24
+        },
+        {
+          "name": "269",
+          "source": "01_All Unit Circulars (AUCs)/269.pdf",
+          "pages": 8
+        },
+        {
+          "name": "269a1",
+          "source": "01_All Unit Circulars (AUCs)/269a1.pdf",
+          "pages": 10
+        },
+        {
+          "name": "269a2",
+          "source": "01_All Unit Circulars (AUCs)/269a2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "270",
+          "source": "01_All Unit Circulars (AUCs)/270.pdf",
+          "pages": 2
+        },
+        {
+          "name": "271",
+          "source": "01_All Unit Circulars (AUCs)/271.pdf",
+          "pages": 2
+        },
+        {
+          "name": "273",
+          "source": "01_All Unit Circulars (AUCs)/273.pdf",
+          "pages": 6
+        },
+        {
+          "name": "274",
+          "source": "01_All Unit Circulars (AUCs)/274.pdf",
+          "pages": 10
+        },
+        {
+          "name": "275",
+          "source": "01_All Unit Circulars (AUCs)/275.pdf",
+          "pages": 2
+        },
+        {
+          "name": "275a1",
+          "source": "01_All Unit Circulars (AUCs)/275a1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "275a2",
+          "source": "01_All Unit Circulars (AUCs)/275a2.pdf",
+          "pages": 6
+        },
+        {
+          "name": "275a3",
+          "source": "01_All Unit Circulars (AUCs)/275a3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "276",
+          "source": "01_All Unit Circulars (AUCs)/276.pdf",
+          "pages": 6
+        },
+        {
+          "name": "276a1",
+          "source": "01_All Unit Circulars (AUCs)/276a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "276a2",
+          "source": "01_All Unit Circulars (AUCs)/276a2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "276a3",
+          "source": "01_All Unit Circulars (AUCs)/276a3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "277",
+          "source": "01_All Unit Circulars (AUCs)/277.pdf",
+          "pages": 4
+        },
+        {
+          "name": "281",
+          "source": "01_All Unit Circulars (AUCs)/281.pdf",
+          "pages": 8
+        },
+        {
+          "name": "281A1",
+          "source": "01_All Unit Circulars (AUCs)/281A1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "281A2",
+          "source": "01_All Unit Circulars (AUCs)/281A2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "285",
+          "source": "01_All Unit Circulars (AUCs)/285.pdf",
+          "pages": 8
+        },
+        {
+          "name": "285A1",
+          "source": "01_All Unit Circulars (AUCs)/285A1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "285A2",
+          "source": "01_All Unit Circulars (AUCs)/285A2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "285A3",
+          "source": "01_All Unit Circulars (AUCs)/285A3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "287",
+          "source": "01_All Unit Circulars (AUCs)/287.pdf",
+          "pages": 16
+        },
+        {
+          "name": "290",
+          "source": "01_All Unit Circulars (AUCs)/290.pdf",
+          "pages": 2
+        },
+        {
+          "name": "293",
+          "source": "01_All Unit Circulars (AUCs)/293.pdf",
+          "pages": 4
+        },
+        {
+          "name": "293A1",
+          "source": "01_All Unit Circulars (AUCs)/293A1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "293A2",
+          "source": "01_All Unit Circulars (AUCs)/293A2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "293A3",
+          "source": "01_All Unit Circulars (AUCs)/293A3.pdf",
+          "pages": 8
+        },
+        {
+          "name": "294",
+          "source": "01_All Unit Circulars (AUCs)/294.pdf",
+          "pages": 2
+        },
+        {
+          "name": "295",
+          "source": "01_All Unit Circulars (AUCs)/295.pdf",
+          "pages": 6
+        },
+        {
+          "name": "297",
+          "source": "01_All Unit Circulars (AUCs)/297.pdf",
+          "pages": 4
+        },
+        {
+          "name": "297A1",
+          "source": "01_All Unit Circulars (AUCs)/297A1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "297A2",
+          "source": "01_All Unit Circulars (AUCs)/297A2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "297a3",
+          "source": "01_All Unit Circulars (AUCs)/297a3.pdf",
+          "pages": 10
+        },
+        {
+          "name": "297a4",
+          "source": "01_All Unit Circulars (AUCs)/297a4.pdf",
+          "pages": 12
+        },
+        {
+          "name": "299",
+          "source": "01_All Unit Circulars (AUCs)/299.pdf",
+          "pages": 2
+        },
+        {
+          "name": "299A1",
+          "source": "01_All Unit Circulars (AUCs)/299A1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "300",
+          "source": "01_All Unit Circulars (AUCs)/300.pdf",
+          "pages": 4
+        },
+        {
+          "name": "302",
+          "source": "01_All Unit Circulars (AUCs)/302.pdf",
+          "pages": 2
+        },
+        {
+          "name": "303",
+          "source": "01_All Unit Circulars (AUCs)/303.pdf",
+          "pages": 2
+        },
+        {
+          "name": "304",
+          "source": "01_All Unit Circulars (AUCs)/304.pdf",
+          "pages": 2
+        },
+        {
+          "name": "310",
+          "source": "01_All Unit Circulars (AUCs)/310.pdf",
+          "pages": 10
+        },
+        {
+          "name": "310A1",
+          "source": "01_All Unit Circulars (AUCs)/310A1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "310A2",
+          "source": "01_All Unit Circulars (AUCs)/310A2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "310A3",
+          "source": "01_All Unit Circulars (AUCs)/310A3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "310A4",
+          "source": "01_All Unit Circulars (AUCs)/310A4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "310A5",
+          "source": "01_All Unit Circulars (AUCs)/310A5.pdf",
+          "pages": 4
+        },
+        {
+          "name": "310A6",
+          "source": "01_All Unit Circulars (AUCs)/310A6.pdf",
+          "pages": 2
+        },
+        {
+          "name": "310A6 App A",
+          "source": "01_All Unit Circulars (AUCs)/310A6_App A.pdf",
+          "pages": 4
+        },
+        {
+          "name": "310A7",
+          "source": "01_All Unit Circulars (AUCs)/310A7.pdf",
+          "pages": 4
+        },
+        {
+          "name": "310A8",
+          "source": "01_All Unit Circulars (AUCs)/310A8.pdf",
+          "pages": 2
+        },
+        {
+          "name": "310A9",
+          "source": "01_All Unit Circulars (AUCs)/310A9.pdf",
+          "pages": 4
+        },
+        {
+          "name": "311",
+          "source": "01_All Unit Circulars (AUCs)/311.pdf",
+          "pages": 8
+        },
+        {
+          "name": "314",
+          "source": "01_All Unit Circulars (AUCs)/314.pdf",
+          "pages": 4
+        },
+        {
+          "name": "316",
+          "source": "01_All Unit Circulars (AUCs)/316.pdf",
+          "pages": 2
+        },
+        {
+          "name": "317",
+          "source": "01_All Unit Circulars (AUCs)/317.pdf",
+          "pages": 6
+        },
+        {
+          "name": "317A1",
+          "source": "01_All Unit Circulars (AUCs)/317A1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "317A2",
+          "source": "01_All Unit Circulars (AUCs)/317A2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "318",
+          "source": "01_All Unit Circulars (AUCs)/318.pdf",
+          "pages": 2
+        },
+        {
+          "name": "318A1",
+          "source": "01_All Unit Circulars (AUCs)/318A1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "319",
+          "source": "01_All Unit Circulars (AUCs)/319.pdf",
+          "pages": 4
+        },
+        {
+          "name": "323",
+          "source": "01_All Unit Circulars (AUCs)/323.pdf",
+          "pages": 2
+        },
+        {
+          "name": "323A1",
+          "source": "01_All Unit Circulars (AUCs)/323A1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "323A2",
+          "source": "01_All Unit Circulars (AUCs)/323A2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "324",
+          "source": "01_All Unit Circulars (AUCs)/324.pdf",
+          "pages": 2
+        },
+        {
+          "name": "325",
+          "source": "01_All Unit Circulars (AUCs)/325.pdf",
+          "pages": 22
+        },
+        {
+          "name": "325a1",
+          "source": "01_All Unit Circulars (AUCs)/325a1.pdf",
+          "pages": 10
+        },
+        {
+          "name": "325a2",
+          "source": "01_All Unit Circulars (AUCs)/325a2.pdf",
+          "pages": 10
+        },
+        {
+          "name": "325a3",
+          "source": "01_All Unit Circulars (AUCs)/325a3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "325a4",
+          "source": "01_All Unit Circulars (AUCs)/325a4.pdf",
+          "pages": 4
+        },
+        {
+          "name": "325a5",
+          "source": "01_All Unit Circulars (AUCs)/325a5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "325a6",
+          "source": "01_All Unit Circulars (AUCs)/325a6.pdf",
+          "pages": 12
+        },
+        {
+          "name": "325a7",
+          "source": "01_All Unit Circulars (AUCs)/325a7.pdf",
+          "pages": 2
+        },
+        {
+          "name": "325a8",
+          "source": "01_All Unit Circulars (AUCs)/325a8.pdf",
+          "pages": 4
+        },
+        {
+          "name": "325a9",
+          "source": "01_All Unit Circulars (AUCs)/325a9.pdf",
+          "pages": 10
+        },
+        {
+          "name": "325a10",
+          "source": "01_All Unit Circulars (AUCs)/325a10.pdf",
+          "pages": 8
+        },
+        {
+          "name": "325a11",
+          "source": "01_All Unit Circulars (AUCs)/325a11.pdf",
+          "pages": 16
+        },
+        {
+          "name": "327",
+          "source": "01_All Unit Circulars (AUCs)/327.pdf",
+          "pages": 12
+        },
+        {
+          "name": "331",
+          "source": "01_All Unit Circulars (AUCs)/331.pdf",
+          "pages": 4
+        },
+        {
+          "name": "332",
+          "source": "01_All Unit Circulars (AUCs)/332.pdf",
+          "pages": 6
+        },
+        {
+          "name": "332a1",
+          "source": "01_All Unit Circulars (AUCs)/332a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "333",
+          "source": "01_All Unit Circulars (AUCs)/333.pdf",
+          "pages": 4
+        },
+        {
+          "name": "336",
+          "source": "01_All Unit Circulars (AUCs)/336.pdf",
+          "pages": 8
+        },
+        {
+          "name": "336a1",
+          "source": "01_All Unit Circulars (AUCs)/336a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "337",
+          "source": "01_All Unit Circulars (AUCs)/337.pdf",
+          "pages": 28
+        },
+        {
+          "name": "338",
+          "source": "01_All Unit Circulars (AUCs)/338.pdf",
+          "pages": 6
+        },
+        {
+          "name": "338a1",
+          "source": "01_All Unit Circulars (AUCs)/338a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "338a2",
+          "source": "01_All Unit Circulars (AUCs)/338a2.pdf",
+          "pages": 10
+        },
+        {
+          "name": "339",
+          "source": "01_All Unit Circulars (AUCs)/339.pdf",
+          "pages": 4
+        },
+        {
+          "name": "341",
+          "source": "01_All Unit Circulars (AUCs)/341.pdf",
+          "pages": 4
+        },
+        {
+          "name": "341a1",
+          "source": "01_All Unit Circulars (AUCs)/341a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "341a2",
+          "source": "01_All Unit Circulars (AUCs)/341a2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "341a3",
+          "source": "01_All Unit Circulars (AUCs)/341a3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "342",
+          "source": "01_All Unit Circulars (AUCs)/342.pdf",
+          "pages": 4
+        },
+        {
+          "name": "343",
+          "source": "01_All Unit Circulars (AUCs)/343.pdf",
+          "pages": 2
+        },
+        {
+          "name": "344",
+          "source": "01_All Unit Circulars (AUCs)/344.pdf",
+          "pages": 6
+        },
+        {
+          "name": "345",
+          "source": "01_All Unit Circulars (AUCs)/345.pdf",
+          "pages": 2
+        },
+        {
+          "name": "345a1",
+          "source": "01_All Unit Circulars (AUCs)/345a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "346",
+          "source": "01_All Unit Circulars (AUCs)/346.pdf",
+          "pages": 6
+        },
+        {
+          "name": "347",
+          "source": "01_All Unit Circulars (AUCs)/347.pdf",
+          "pages": 2
+        },
+        {
+          "name": "349",
+          "source": "01_All Unit Circulars (AUCs)/349.pdf",
+          "pages": 10
+        },
+        {
+          "name": "350",
+          "source": "01_All Unit Circulars (AUCs)/350.pdf",
+          "pages": 4
+        },
+        {
+          "name": "351",
+          "source": "01_All Unit Circulars (AUCs)/351.pdf",
+          "pages": 12
+        },
+        {
+          "name": "355",
+          "source": "01_All Unit Circulars (AUCs)/355.pdf",
+          "pages": 16
+        },
+        {
+          "name": "356",
+          "source": "01_All Unit Circulars (AUCs)/356.pdf",
+          "pages": 2
+        },
+        {
+          "name": "357",
+          "source": "01_All Unit Circulars (AUCs)/357.pdf",
+          "pages": 4
+        },
+        {
+          "name": "358",
+          "source": "01_All Unit Circulars (AUCs)/358.pdf",
+          "pages": 2
+        },
+        {
+          "name": "359",
+          "source": "01_All Unit Circulars (AUCs)/359.pdf",
+          "pages": 4
+        },
+        {
+          "name": "360",
+          "source": "01_All Unit Circulars (AUCs)/360.pdf",
+          "pages": 2
+        },
+        {
+          "name": "361",
+          "source": "01_All Unit Circulars (AUCs)/361.pdf",
+          "pages": 2
+        },
+        {
+          "name": "362",
+          "source": "01_All Unit Circulars (AUCs)/362.pdf",
+          "pages": 6
+        },
+        {
+          "name": "363",
+          "source": "01_All Unit Circulars (AUCs)/363.pdf",
+          "pages": 8
+        }
+      ],
+      "size_chars": 2253811
+    },
+    {
+      "category": "02_BISP Manual (Building Inspection Safety Program)",
+      "filename": "02_BISP_Manual_Building_Inspection_Safety_Program.md",
+      "document_count": 104,
+      "total_pages": 1270,
+      "chapters": [
+        {
+          "name": "001 BISP Cover",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/001_BISP Cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "004 BI-TOC Mainv5",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/004_BI-TOC Mainv5.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005 BI-01v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/005_BI-01v2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "006 BI-02v11",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/006_BI-02v11.pdf",
+          "pages": 44
+        },
+        {
+          "name": "006A BI-02a1",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/006A_BI-02a1.pdf",
+          "pages": 18
+        },
+        {
+          "name": "007 BI-02a2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/007_BI-02a2.pdf",
+          "pages": 8
+        },
+        {
+          "name": "008 BI-03v5",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/008_BI-03v5.pdf",
+          "pages": 10
+        },
+        {
+          "name": "009 BI-03a1v3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/009_BI-03a1v3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "010 BI-03a1 IF-01v3 Gen Form",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/010_BI-03a1 IF-01v3 Gen Form.pdf",
+          "pages": 4
+        },
+        {
+          "name": "011 BI-03a1 IF-02v5.1",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/011_BI-03a1 IF-02v5.1.pdf",
+          "pages": 8
+        },
+        {
+          "name": "012 BI-03a1 IF-02A",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/012_BI-03a1 IF-02A.pdf",
+          "pages": 4
+        },
+        {
+          "name": "013 BI-03a1 IF-03v3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/013_BI-03a1 IF-03v3.pdf",
+          "pages": 6
+        },
+        {
+          "name": "014 BI-03a1 IF-04v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/014_BI-03a1 IF-04v2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "015 BI-03a1 IF-05v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/015_BI-03a1 IF-05v2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "016 BI-03a1 IF-06v3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/016_BI-03a1 IF-06v3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "017 BI-03a1 IF-07v3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/017_BI-03a1 IF-07v3.pdf",
+          "pages": 6
+        },
+        {
+          "name": "018 BI-03a1 IF-08v3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/018_BI-03a1 IF-08v3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "018a BI-03a1 IF-09v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/018a_BI-03a1 IF-09v2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "019 BI-03a2v3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/019_BI-03a2v3.pdf",
+          "pages": 8
+        },
+        {
+          "name": "020  BI-03a2 IG-01 ASSEMBLY TOC",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/020_ BI-03a2 IG-01 ASSEMBLY TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "021 BI-03a2v2  IG-01 ASSEMBLY GUIDEv3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/021_BI-03a2v2  IG-01 ASSEMBLY GUIDEv3.pdf",
+          "pages": 32
+        },
+        {
+          "name": "022  BI-03a2 IG-02  BUSINESS TOC",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/022_ BI-03a2 IG-02  BUSINESS TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "023 BI-03a2v2 IG-02 BUSINESS GUIDEv2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/023_BI-03a2v2 IG-02 BUSINESS GUIDEv2.pdf",
+          "pages": 24
+        },
+        {
+          "name": "024 BI-03a2 IG-03  EDUCATIONAL TOC",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/024_BI-03a2 IG-03  EDUCATIONAL TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "025 BI-03a2 IG-03 EDUCATION GUIDEv3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/025_BI-03a2 IG-03 EDUCATION GUIDEv3.pdf",
+          "pages": 18
+        },
+        {
+          "name": "026 BI-03a2 IG-04  FACTORY TOC",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/026_BI-03a2 IG-04  FACTORY TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "027  BI-03a2 IG-04 FACTORY INDUSTRIAL GUIDE",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/027_ BI-03a2 IG-04 FACTORY INDUSTRIAL GUIDE.pdf",
+          "pages": 28
+        },
+        {
+          "name": "028  BI-03a2 IG-05  HIGH HAZARD TOC",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/028_ BI-03a2 IG-05  HIGH HAZARD TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "029 BI-03a2 IG-05 HIGH HAZARD GUIDE",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/029_BI-03a2 IG-05 HIGH HAZARD GUIDE.pdf",
+          "pages": 20
+        },
+        {
+          "name": "030 BI-03a2 IG-06  INSTITUTIONAL TOC",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/030_BI-03a2 IG-06  INSTITUTIONAL TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "031 BI-03a2 IG-06 INSTITUTIONAL GUIDE",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/031_BI-03a2 IG-06 INSTITUTIONAL GUIDE.pdf",
+          "pages": 24
+        },
+        {
+          "name": "032 BI-03a2 IG-07 MERCANTILE TOC",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/032_BI-03a2 IG-07 MERCANTILE TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "033 BI-03a2 IG-07 MERCANTILE GUIDEv2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/033_BI-03a2 IG-07 MERCANTILE GUIDEv2.pdf",
+          "pages": 16
+        },
+        {
+          "name": "034 BI-03a2 IG-08  RESIDENTIAL TOC",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/034_BI-03a2 IG-08  RESIDENTIAL TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "035 BI-03a2 IG-08  RESIDENTIAL GUIDEv3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/035_BI-03a2 IG-08  RESIDENTIAL GUIDEv3.pdf",
+          "pages": 44
+        },
+        {
+          "name": "036 BI-03a2 IG-09  STORAGE TOC",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/036_BI-03a2 IG-09  STORAGE TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "037 BI-03a2 IG-09 STORAGE GUIDEv2.1",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/037_BI-03a2 IG-09 STORAGE GUIDEv2.1.pdf",
+          "pages": 20
+        },
+        {
+          "name": "038 BI-03a2 IG-10v2 CDA TOC",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/038_BI-03a2 IG-10v2 CDA TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "039 BI-03a2 IG-10 CDA GUIDEv7",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/039_BI-03a2 IG-10 CDA GUIDEv7.pdf",
+          "pages": 50
+        },
+        {
+          "name": "040 BI-03a2v3 IG-11 Fire Code Guide by Chapter pdf Merged",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/040_BI-03a2v3 IG-11_Fire Code Guide by Chapter_pdf Merged.pdf",
+          "pages": 212
+        },
+        {
+          "name": "042 BI-03a2 IG-11 EPP APPENDIX Av5c",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/042_BI-03a2 IG-11 EPP APPENDIX Av5c.pdf",
+          "pages": 12
+        },
+        {
+          "name": "044 BI-03a3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/044_BI-03a3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "045 BI-03a4v3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/045_BI-03a4v3.pdf",
+          "pages": 16
+        },
+        {
+          "name": "046 BI-04v4",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/046_BI-04v4.pdf",
+          "pages": 6
+        },
+        {
+          "name": "047 BI-04a1v8",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/047_BI-04a1v8.pdf",
+          "pages": 22
+        },
+        {
+          "name": "048 BI-04a1 APPENDIX Av2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/048_BI-04a1 APPENDIX Av2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "049 BI-04a1 APPENDIX Bv2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/049_BI-04a1 APPENDIX Bv2.pdf",
+          "pages": 14
+        },
+        {
+          "name": "050 BI-04a1 APPENDIX Cv3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/050_BI-04a1 APPENDIX Cv3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "051 BI-04a1 APPENDIX Dv3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/051_BI-04a1 APPENDIX Dv3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "052 BI-04a1 APPENDIX E v3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/052_BI-04a1 APPENDIX E v3.pdf",
+          "pages": 8
+        },
+        {
+          "name": "053 BI-04a2v5",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/053_BI-04a2v5.pdf",
+          "pages": 4
+        },
+        {
+          "name": "054 BI-04a2 APPENDIX A",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/054_BI-04a2 APPENDIX A.pdf",
+          "pages": 2
+        },
+        {
+          "name": "055 BI-04a2 APPENDIX A PG2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/055_BI-04a2 APPENDIX A PG2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "056 BI-04a3v6 Summons",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/056_BI-04a3v6 Summons.pdf",
+          "pages": 24
+        },
+        {
+          "name": "057 BI-04a3 APPENDIX A v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/057_BI-04a3 APPENDIX A v2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "058 BI-04a3 APPENDIX B v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/058_BI-04a3 APPENDIX B v2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "059 BI-04a4v8.3Vacate",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/059_BI-04a4v8.3Vacate.pdf",
+          "pages": 26
+        },
+        {
+          "name": "060 BI-04a5v7",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/060_BI-04a5v7.pdf",
+          "pages": 88
+        },
+        {
+          "name": "060 BI-04a5v8.1 SFO's",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/060_BI-04a5v8.1 SFO's.pdf",
+          "pages": 92
+        },
+        {
+          "name": "061 BI-04a6v4",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/061_BI-04a6v4.pdf",
+          "pages": 6
+        },
+        {
+          "name": "062 BI-04a6v2 FORM",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/062_BI-04a6v2 FORM.pdf",
+          "pages": 2
+        },
+        {
+          "name": "063 BI-05v3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/063_BI-05v3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "064 BI-05 REF 1-1v3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/064_BI-05 REF 1-1v3.pdf",
+          "pages": 18
+        },
+        {
+          "name": "065 BI-05 REF 1-2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/065_BI-05 REF 1-2.pdf",
+          "pages": 8
+        },
+        {
+          "name": "066 BI-05 REF 1-3v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/066_BI-05 REF 1-3v2.pdf",
+          "pages": 10
+        },
+        {
+          "name": "067 BI-05 REF 1-3 APPENDIX A",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/067_BI-05 REF 1-3 APPENDIX A.pdf",
+          "pages": 2
+        },
+        {
+          "name": "068 BI-05 REF 2.1 v4",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/068_BI-05 REF 2.1 v4.pdf",
+          "pages": 10
+        },
+        {
+          "name": "069 BI-05 REF 2.1av6",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/069_BI-05 REF 2.1av6.pdf",
+          "pages": 14
+        },
+        {
+          "name": "070 BI-05 REF 2.2 v5",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/070_BI-05 REF 2.2 v5.pdf",
+          "pages": 10
+        },
+        {
+          "name": "071 BI-05 REF 2-3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/071_BI-05 REF 2-3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "072 BI-05 REF 2-3 A234B  FORM",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/072_BI-05 REF 2-3 A234B  FORM.pdf",
+          "pages": 2
+        },
+        {
+          "name": "073 BI-05 REF 2-4",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/073_BI-05 REF 2-4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "074 BI-05 REF 3-1 v3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/074_BI-05 REF 3-1 v3.pdf",
+          "pages": 6
+        },
+        {
+          "name": "075 BI-05 REF 3-2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/075_BI-05 REF 3-2.pdf",
+          "pages": 10
+        },
+        {
+          "name": "076 BI-05 REF 4-1v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/076_BI-05 REF 4-1v2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "077 BI-05 REF 5-1",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/077_BI-05 REF 5-1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "078 BI-05 REF 5-2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/078_BI-05 REF 5-2.pdf",
+          "pages": 10
+        },
+        {
+          "name": "079 BI-05 REF 6-1v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/079_BI-05 REF 6-1v2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "080 BI-05 REF 6-1 ADDENDUM 1",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/080_BI-05 REF 6-1 ADDENDUM 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "081 BI-05 REF 7-1v3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/081_BI-05 REF 7-1v3.pdf",
+          "pages": 6
+        },
+        {
+          "name": "082 BI-05 REF 7-2 site survey",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/082_BI-05 REF 7-2 site survey.pdf",
+          "pages": 2
+        },
+        {
+          "name": "083 BI-05 REF 7-2 APPENDIX Av2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/083_BI-05 REF 7-2 APPENDIX Av2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "084 BI-05 REF 7-3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/084_BI-05 REF 7-3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "085 BI-05 REF 8-1",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/085_BI-05 REF 8-1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "086 BI-05 REF 8-2v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/086_BI-05 REF 8-2v2.pdf",
+          "pages": 12
+        },
+        {
+          "name": "087 BI-05 REF 8-2 APPENDIX A",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/087_BI-05 REF 8-2 APPENDIX A.pdf",
+          "pages": 2
+        },
+        {
+          "name": "088 BI-05 REF 8-3 TOC",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/088_BI-05 REF 8-3 TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "089 BI-05 REF 8-3v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/089_BI-05 REF 8-3v2.pdf",
+          "pages": 32
+        },
+        {
+          "name": "090 BI-05 REF 8-4v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/090_BI-05 REF 8-4v2.pdf",
+          "pages": 6
+        },
+        {
+          "name": "091 BI-05 REF 8-5",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/091_BI-05 REF 8-5.pdf",
+          "pages": 18
+        },
+        {
+          "name": "092 BI-05 REF 8-6",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/092_BI-05 REF 8-6.pdf",
+          "pages": 2
+        },
+        {
+          "name": "092a BI-05 REF 8-7",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/092a_BI-05 REF 8-7.pdf",
+          "pages": 2
+        },
+        {
+          "name": "093 BI-05 REF 9-1",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/093_BI-05 REF 9-1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "094 BI-05 REF 9-2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/094_BI-05 REF 9-2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "095 BI-05 REF 9-3",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/095_BI-05 REF 9-3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "096 BI-05 REF 9-4v3.1 Struct Int",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/096_BI-05 REF 9-4v3.1 Struct Int.pdf",
+          "pages": 6
+        },
+        {
+          "name": "097 BI-05 REF 9-5v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/097_BI-05 REF 9-5v2.pdf",
+          "pages": 6
+        },
+        {
+          "name": "098 BI-05 REF 9-6v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/098_BI-05 REF 9-6v2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "099 BI-05 REF 9-7",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/099_BI-05 REF 9-7.pdf",
+          "pages": 2
+        },
+        {
+          "name": "100 BI-05 REF 9-8",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/100_BI-05 REF 9-8.pdf",
+          "pages": 2
+        },
+        {
+          "name": "101 BI-05 REF 9-9v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/101_BI-05 REF 9-9v2.pdf",
+          "pages": 16
+        },
+        {
+          "name": "102 BI-05 REF 9-10v2",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/102_BI-05 REF 9-10v2.pdf",
+          "pages": 6
+        },
+        {
+          "name": "102a BI-05 REF 9-11 ",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/102a_BI-05 REF 9-11 .pdf",
+          "pages": 6
+        },
+        {
+          "name": "103 BI-06v4",
+          "source": "02_BISP Manual (Building Inspection Safety Program)/103_BI-06v4.pdf",
+          "pages": 6
+        }
+      ],
+      "size_chars": 2531162
+    },
+    {
+      "category": "03_CFR-D Manual (Certified First Responders - Defibrillation)",
+      "filename": "03_CFR_D_Manual_Certified_First_Responders_Defibrillation.md",
+      "document_count": 90,
+      "total_pages": 735,
+      "chapters": [
+        {
+          "name": "000 CFR-D COVER",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/000_CFR-D COVER.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 CFR TOC",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/001_CFR TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 CFR Ch 1",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/002_CFR Ch 1.pdf",
+          "pages": 10
+        },
+        {
+          "name": "003 CFR Ch 2",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/003_CFR Ch 2.pdf",
+          "pages": 16
+        },
+        {
+          "name": "004 CFR Ch 2 Add 1",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/004_CFR Ch 2 Add 1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "005 CFR Chapter 2 Addendum 1 App A",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/005_CFR Chapter 2 Addendum 1 App A.pdf",
+          "pages": 2
+        },
+        {
+          "name": "006 CFR Chapter 2 Addendum 1 App B",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/006_CFR Chapter 2 Addendum 1 App B.pdf",
+          "pages": 2
+        },
+        {
+          "name": "007 CFR Chapter 2 Addendum 1 App C",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/007_CFR Chapter 2 Addendum 1 App C.pdf",
+          "pages": 4
+        },
+        {
+          "name": "007a CFR Chapter 2 Addendum 1 App D",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/007a_CFR Chapter 2 Addendum 1 App D.pdf",
+          "pages": 8
+        },
+        {
+          "name": "008 CFR Ch 2 App A",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/008_CFR Ch 2 App A.pdf",
+          "pages": 2
+        },
+        {
+          "name": "009 CFR Ch 2 App B",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/009_CFR Ch 2 App B.pdf",
+          "pages": 2
+        },
+        {
+          "name": "010 CFR Chapter 3",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/010_CFR Chapter 3.pdf",
+          "pages": 12
+        },
+        {
+          "name": "011 CFR Chapter 3 Add 1",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/011_CFR Chapter 3 Add 1.pdf",
+          "pages": 16
+        },
+        {
+          "name": "012 CFR Chapter 3 Add 2",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/012_CFR Chapter 3 Add 2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "013 CFR Chapter 3 Addendum 3",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/013_CFR Chapter 3 Addendum 3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "014 CFR Chapter 3 App A",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/014_CFR Chapter 3 App A.pdf",
+          "pages": 4
+        },
+        {
+          "name": "015 CFR Chapter 3 App B",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/015_CFR Chapter 3 App B.pdf",
+          "pages": 4
+        },
+        {
+          "name": "016 CFR Chapter 3 Supp 1",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/016_CFR Chapter 3 Supp 1.pdf",
+          "pages": 8
+        },
+        {
+          "name": "017 CFR Chapter 3 Supp 2",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/017_CFR Chapter 3 Supp 2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "018 CFR Chapter 4",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/018_CFR Chapter 4.pdf",
+          "pages": 20
+        },
+        {
+          "name": "019 CFR Chapter 4 Add 1",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/019_CFR Chapter 4 Add 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "020 CFR Chapter 4 Add 2",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/020_CFR Chapter 4 Add 2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "021 CFR Ch 5",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/021_CFR Ch 5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "022 CFR Ch 5 Add 1",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/022_CFR Ch 5 Add 1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "023 CFR Ch 5 App A",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/023_CFR Ch 5 App A.pdf",
+          "pages": 30
+        },
+        {
+          "name": "024 CFR Ch 5 App B",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/024_CFR Ch 5 App B.pdf",
+          "pages": 12
+        },
+        {
+          "name": "025 CFR Chapter 7",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/025_CFR Chapter 7.pdf",
+          "pages": 178
+        },
+        {
+          "name": "Chapter 6",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/Chapter 6.pdf",
+          "pages": 3
+        },
+        {
+          "name": "OMAD 2003-23",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2003-23.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2007-03",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2007-03.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2010-04",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2010-04.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2011-04",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2011-04.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2011-05",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2011-05.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-05",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-05.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-05 ADD 1",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-05_ADD 1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2015-05 ADD 2",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-05_ADD 2.pdf",
+          "pages": 8
+        },
+        {
+          "name": "OMAD 2015-05 APP A",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-05_APP A.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-05 APP B",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-05_APP B.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2015-06",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-06.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-07",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-07.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-08",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-08.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-09",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-09.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-10",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-10.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-11",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-11.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-14",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-14.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2015-15",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-15.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-16",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-16.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-17",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-17.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-17A",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-17A.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2015-17B",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-17B.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-18A1",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-18A1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2015-18A2",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-18A2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2015-19",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2015-19.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2016-01A",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2016-01A.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2016-02",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2016-02.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2016-03",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2016-03.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2016-04",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2016-04.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2016-12",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2016-12.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2016-14",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2016-14.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2017-07",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2017-07.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2017-11",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2017-11.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2017-16",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2017-16.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2017-17",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2017-17.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2017-20",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2017-20.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2018-01",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2018-01.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2018-02",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2018-02.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2018-15",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2018-15.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2019-05",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2019-05.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2019-08",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2019-08.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2019-08 ADD 1",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2019-08_ADD 1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "OMAD 2019-11",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2019-11.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2020-05B",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2020-05B.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2020-18",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2020-18.pdf",
+          "pages": 6
+        },
+        {
+          "name": "OMAD 2020-19",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2020-19.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2020-19A1",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2020-19A1.pdf",
+          "pages": 190
+        },
+        {
+          "name": "OMAD 2020-20",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2020-20.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2021-03",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2021-03.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2021-04",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2021-04.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2022-12",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2022-12.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2022-13",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2022-13.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2022-14",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2022-14.pdf",
+          "pages": 2
+        },
+        {
+          "name": "OMAD 2022-15",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2022-15.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2022-16",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2022-16.pdf",
+          "pages": 10
+        },
+        {
+          "name": "OMAD 2023-01",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2023-01.pdf",
+          "pages": 6
+        },
+        {
+          "name": "OMAD 2023-10",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2023-10.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2024-04",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2024-04.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2024-08",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2024-08.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2024-09",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2024-09.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2024-10",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2024-10.pdf",
+          "pages": 4
+        },
+        {
+          "name": "OMAD 2025-01",
+          "source": "03_CFR-D Manual (Certified First Responders - Defibrillation)/CFR Chapter 6 - OMAD/OMAD 2025-01.pdf",
+          "pages": 2
+        }
+      ],
+      "size_chars": 1221540
+    },
+    {
+      "category": "04_Communications Manual",
+      "filename": "04_Communications_Manual.md",
+      "document_count": 44,
+      "total_pages": 408,
+      "chapters": [
+        {
+          "name": "000a Com-cover",
+          "source": "04_Communications Manual/000a_Com-cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "000b Com-index",
+          "source": "04_Communications Manual/000b_Com-index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 Com-01",
+          "source": "04_Communications Manual/001_Com-01.pdf",
+          "pages": 8
+        },
+        {
+          "name": "002 Com-02",
+          "source": "04_Communications Manual/002_Com-02.pdf",
+          "pages": 22
+        },
+        {
+          "name": "003 Com-03",
+          "source": "04_Communications Manual/003_Com-03.pdf",
+          "pages": 6
+        },
+        {
+          "name": "004 Com-04",
+          "source": "04_Communications Manual/004_Com-04.pdf",
+          "pages": 18
+        },
+        {
+          "name": "005 Com-04a1",
+          "source": "04_Communications Manual/005_Com-04a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "006 Com-04a2",
+          "source": "04_Communications Manual/006_Com-04a2.pdf",
+          "pages": 40
+        },
+        {
+          "name": "007 Com-04a3",
+          "source": "04_Communications Manual/007_Com-04a3.pdf",
+          "pages": 16
+        },
+        {
+          "name": "008 Com-05",
+          "source": "04_Communications Manual/008_Com-05.pdf",
+          "pages": 6
+        },
+        {
+          "name": "009 Com-06",
+          "source": "04_Communications Manual/009_Com-06.pdf",
+          "pages": 16
+        },
+        {
+          "name": "010 Com-06a1",
+          "source": "04_Communications Manual/010_Com-06a1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "011 Com-06a2",
+          "source": "04_Communications Manual/011_Com-06a2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "012 Com-07",
+          "source": "04_Communications Manual/012_Com-07.pdf",
+          "pages": 30
+        },
+        {
+          "name": "013 Com-07a1",
+          "source": "04_Communications Manual/013_Com-07a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "014 Com-07a2",
+          "source": "04_Communications Manual/014_Com-07a2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "015 Com-08",
+          "source": "04_Communications Manual/015_Com-08.pdf",
+          "pages": 38
+        },
+        {
+          "name": "015a Com-08a1",
+          "source": "04_Communications Manual/015a_Com-08a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "016 Com-09",
+          "source": "04_Communications Manual/016_Com-09.pdf",
+          "pages": 18
+        },
+        {
+          "name": "017 Com-09a1",
+          "source": "04_Communications Manual/017_Com-09a1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "018 Com-09a2",
+          "source": "04_Communications Manual/018_Com-09a2.pdf",
+          "pages": 8
+        },
+        {
+          "name": "019 Com-09a3",
+          "source": "04_Communications Manual/019_Com-09a3.pdf",
+          "pages": 26
+        },
+        {
+          "name": "020 Com-09a4",
+          "source": "04_Communications Manual/020_Com-09a4.pdf",
+          "pages": 6
+        },
+        {
+          "name": "021 Com-10",
+          "source": "04_Communications Manual/021_Com-10.pdf",
+          "pages": 8
+        },
+        {
+          "name": "022 Com-10a1",
+          "source": "04_Communications Manual/022_Com-10a1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "023 Com-10a2",
+          "source": "04_Communications Manual/023_Com-10a2.pdf",
+          "pages": 10
+        },
+        {
+          "name": "024 Com-10a3",
+          "source": "04_Communications Manual/024_Com-10a3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "025 Com-11",
+          "source": "04_Communications Manual/025_Com-11.pdf",
+          "pages": 24
+        },
+        {
+          "name": "026 Com-11a1",
+          "source": "04_Communications Manual/026_Com-11a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "027 Com-11a2",
+          "source": "04_Communications Manual/027_Com-11a2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "028 Com-11a3",
+          "source": "04_Communications Manual/028_Com-11a3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "029 Com-11a4",
+          "source": "04_Communications Manual/029_Com-11a4.pdf",
+          "pages": 10
+        },
+        {
+          "name": "030 Com-11a5",
+          "source": "04_Communications Manual/030_Com-11a5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "031 Com-11a6",
+          "source": "04_Communications Manual/031_Com-11a6.pdf",
+          "pages": 2
+        },
+        {
+          "name": "032 Com-11a7",
+          "source": "04_Communications Manual/032_Com-11a7.pdf",
+          "pages": 2
+        },
+        {
+          "name": "033 Com-11a8",
+          "source": "04_Communications Manual/033_Com-11a8.pdf",
+          "pages": 4
+        },
+        {
+          "name": "034 Com-12",
+          "source": "04_Communications Manual/034_Com-12.pdf",
+          "pages": 14
+        },
+        {
+          "name": "035 Com-12a1",
+          "source": "04_Communications Manual/035_Com-12a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "036 Com-13",
+          "source": "04_Communications Manual/036_Com-13.pdf",
+          "pages": 12
+        },
+        {
+          "name": "037 Com-14",
+          "source": "04_Communications Manual/037_Com-14.pdf",
+          "pages": 4
+        },
+        {
+          "name": "038 Com-14a1",
+          "source": "04_Communications Manual/038_Com-14a1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "039 Com-14a2",
+          "source": "04_Communications Manual/039_Com-14a2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "040 Com-14a3",
+          "source": "04_Communications Manual/040_Com-14a3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "041 Com-14a4",
+          "source": "04_Communications Manual/041_Com-14a4.pdf",
+          "pages": 4
+        }
+      ],
+      "size_chars": 631526
+    },
+    {
+      "category": "05_Company Journal Manual",
+      "filename": "05_Company_Journal_Manual.md",
+      "document_count": 2,
+      "total_pages": 20,
+      "chapters": [
+        {
+          "name": "001 Co-cover",
+          "source": "05_Company Journal Manual/001_Co-cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Cojour",
+          "source": "05_Company Journal Manual/002_Cojour.pdf",
+          "pages": 18
+        }
+      ],
+      "size_chars": 26214
+    },
+    {
+      "category": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)",
+      "filename": "06_ERP_Emergency_Response_Plan_Fire_Tactics_Procedures.md",
+      "document_count": 22,
+      "total_pages": 274,
+      "chapters": [
+        {
+          "name": "000 ERP Cover",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/000_ERP Cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "000 ERP Index",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/000_ERP Index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 ERP Haz-Mat",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/001 ERP Haz-Mat.pdf",
+          "pages": 44
+        },
+        {
+          "name": "002 ERP Addendum 1 Bio TOC",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/002 ERP Addendum 1 Bio TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 ERP Addendum 1 Bio Ch 01",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/003 ERP Addendum 1 Bio Ch 01.pdf",
+          "pages": 26
+        },
+        {
+          "name": "004 ERP Addendum 1 Bio Ch 02",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/004 ERP Addendum 1 Bio Ch 02.pdf",
+          "pages": 8
+        },
+        {
+          "name": "005 ERP Addendum 1 Bio Ch 03",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/005 ERP Addendum 1 Bio Ch 03.pdf",
+          "pages": 4
+        },
+        {
+          "name": "006 ERP Addendum 1 Bio Ch 04",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/006 ERP Addendum 1 Bio Ch 04.pdf",
+          "pages": 16
+        },
+        {
+          "name": "007 ERP Addendum 1 Bio Ch 05",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/007 ERP Addendum 1 Bio Ch 05.pdf",
+          "pages": 4
+        },
+        {
+          "name": "008 ERP Addendum 1 Bio Ch 06",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/008 ERP Addendum 1 Bio Ch 06.pdf",
+          "pages": 6
+        },
+        {
+          "name": "009 ERP Addendum 1 Bio Ch 07",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/009 ERP Addendum 1 Bio Ch 07.pdf",
+          "pages": 4
+        },
+        {
+          "name": "010 ERP Addendum 1 Bio Ch 08",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/010 ERP Addendum 1 Bio Ch 08.pdf",
+          "pages": 4
+        },
+        {
+          "name": "011 ERP Addendum 1 Bio Ch 09",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/011 ERP Addendum 1 Bio Ch 09.pdf",
+          "pages": 6
+        },
+        {
+          "name": "012 ERP Addendum 1 Bio Ch 10",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/012 ERP Addendum 1 Bio Ch 10.pdf",
+          "pages": 4
+        },
+        {
+          "name": "013 ERP Addendum 2 Underground Transit",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/013 ERP Addendum 2 Underground Transit.pdf",
+          "pages": 20
+        },
+        {
+          "name": "014 ERP Addendum 3 Improvised Explosive Devices",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/014 ERP Addendum 3 Improvised Explosive Devices.pdf",
+          "pages": 34
+        },
+        {
+          "name": "015 ERP Addendum 3A Aggressive Deadly Behavior",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/015 ERP Addendum 3A Aggressive Deadly Behavior.pdf",
+          "pages": 12
+        },
+        {
+          "name": "016 ERP Addendum 3A-App A-Rescue Task Force Comm Plan",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/016 ERP Addendum 3A-App A-Rescue Task Force Comm Plan.pdf",
+          "pages": 4
+        },
+        {
+          "name": "017 ERP Addendum 3B Emergency Command Procedures",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/017 ERP Addendum 3B Emergency Command Procedures.pdf",
+          "pages": 6
+        },
+        {
+          "name": "018 ERP Addendum 4 Radiological Operations",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/018 ERP Addendum 4 Radiological Operations.pdf",
+          "pages": 52
+        },
+        {
+          "name": "020 ERP Addendum 4B Rad Ops Dispersal Device",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/020 ERP Addendum 4B Rad Ops Dispersal Device.pdf",
+          "pages": 10
+        },
+        {
+          "name": "021 ERP Addendum 4C Rad Ops Potassium Iodide",
+          "source": "06_ERP (Emergency Response Plan - Fire Tactics & Procedures)/021 ERP Addendum 4C Rad Ops Potassium Iodide.pdf",
+          "pages": 4
+        }
+      ],
+      "size_chars": 480492
+    },
+    {
+      "category": "07_Evolutions",
+      "filename": "07_Evolutions.md",
+      "document_count": 21,
+      "total_pages": 152,
+      "chapters": [
+        {
+          "name": "000a EV-Cover",
+          "source": "07_Evolutions/000a_EV-Cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "000b EV-Index",
+          "source": "07_Evolutions/000b_EV-Index.pdf",
+          "pages": 4
+        },
+        {
+          "name": "001 EV-Chapter 1",
+          "source": "07_Evolutions/001_EV-Chapter 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "016 EV-16",
+          "source": "07_Evolutions/016_EV-16.pdf",
+          "pages": 32
+        },
+        {
+          "name": "018 EV-18",
+          "source": "07_Evolutions/018_EV-18.pdf",
+          "pages": 4
+        },
+        {
+          "name": "023 EV-23",
+          "source": "07_Evolutions/023_EV-23.pdf",
+          "pages": 10
+        },
+        {
+          "name": "024 EV-24",
+          "source": "07_Evolutions/024_EV-24.pdf",
+          "pages": 6
+        },
+        {
+          "name": "025 EV-25",
+          "source": "07_Evolutions/025_EV-25.pdf",
+          "pages": 14
+        },
+        {
+          "name": "026 EV-26",
+          "source": "07_Evolutions/026_EV-26.pdf",
+          "pages": 14
+        },
+        {
+          "name": "027 EV-27",
+          "source": "07_Evolutions/027_EV-27.pdf",
+          "pages": 12
+        },
+        {
+          "name": "028 EV-28",
+          "source": "07_Evolutions/028_EV-28.pdf",
+          "pages": 8
+        },
+        {
+          "name": "029 EV-29",
+          "source": "07_Evolutions/029_EV-29.pdf",
+          "pages": 8
+        },
+        {
+          "name": "030 EV-30",
+          "source": "07_Evolutions/030_EV-30.pdf",
+          "pages": 8
+        },
+        {
+          "name": "031 EV-31",
+          "source": "07_Evolutions/031_EV-31.pdf",
+          "pages": 2
+        },
+        {
+          "name": "031a EV-31a",
+          "source": "07_Evolutions/031a_EV-31a.pdf",
+          "pages": 4
+        },
+        {
+          "name": "031b EV-31b",
+          "source": "07_Evolutions/031b_EV-31b.pdf",
+          "pages": 4
+        },
+        {
+          "name": "031c EV-31c",
+          "source": "07_Evolutions/031c_EV-31c.pdf",
+          "pages": 2
+        },
+        {
+          "name": "032 EV-32",
+          "source": "07_Evolutions/032_EV-32.pdf",
+          "pages": 2
+        },
+        {
+          "name": "033 EV-33",
+          "source": "07_Evolutions/033_EV-33.pdf",
+          "pages": 6
+        },
+        {
+          "name": "033a EV-33a",
+          "source": "07_Evolutions/033a_EV-33a.pdf",
+          "pages": 4
+        },
+        {
+          "name": "034 EV-34",
+          "source": "07_Evolutions/034_EV-34.pdf",
+          "pages": 4
+        }
+      ],
+      "size_chars": 172045
+    },
+    {
+      "category": "08_FFP Volume 1 - Firefighting Procedures",
+      "filename": "08_FFP_Volume_1_Firefighting_Procedures.md",
+      "document_count": 44,
+      "total_pages": 824,
+      "chapters": [
+        {
+          "name": "FFP-cover",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/000 - Cover for Volume 1 & Index for Volumes 1 - 4/FFP-cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "FFP-index",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/000 - Cover for Volume 1 & Index for Volumes 1 - 4/FFP-index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 Multiple Dwellings Table of Contents",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 01 - Multiple Dwelling Fires/001_Multiple Dwellings Table of Contents.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Multiple Dwellings Glossary",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 01 - Multiple Dwelling Fires/002_Multiple Dwellings Glossary.pdf",
+          "pages": 4
+        },
+        {
+          "name": "003 Multiple Dwellings Chapter 1",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 01 - Multiple Dwelling Fires/003_Multiple Dwellings Chapter 1.pdf",
+          "pages": 52
+        },
+        {
+          "name": "004 Multiple Dwellings Chapter 2",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 01 - Multiple Dwelling Fires/004_Multiple Dwellings Chapter 2.pdf",
+          "pages": 40
+        },
+        {
+          "name": "005 Multiple Dwellings Chapter 3",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 01 - Multiple Dwelling Fires/005_Multiple Dwellings Chapter 3.pdf",
+          "pages": 12
+        },
+        {
+          "name": "006 Multiple Dwellings Chapter 4",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 01 - Multiple Dwelling Fires/006_Multiple Dwellings Chapter 4.pdf",
+          "pages": 30
+        },
+        {
+          "name": "007 Multiple Dwellings Chapter 5",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 01 - Multiple Dwelling Fires/007_Multiple Dwellings Chapter 5.pdf",
+          "pages": 14
+        },
+        {
+          "name": "008 Multiple Dwellings Chapter 6",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 01 - Multiple Dwelling Fires/008_Multiple Dwellings Chapter 6.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 Bs&rf",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 02 - Brownstone & Row Frame Fires/001_Bs&rf.pdf",
+          "pages": 56
+        },
+        {
+          "name": "002 BS&rfa1",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 02 - Brownstone & Row Frame Fires/002_BS&rfa1.pdf",
+          "pages": 14
+        },
+        {
+          "name": "VACBLD",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 03 - Vacant Building Fires/VACBLD.pdf",
+          "pages": 18
+        },
+        {
+          "name": "Txpr",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 04 - Taxpayer Fires/Txpr.pdf",
+          "pages": 72
+        },
+        {
+          "name": "001 HI-RS",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 05 - High-Rise Office Building Fires/001_HI-RS.pdf",
+          "pages": 50
+        },
+        {
+          "name": "002 HI-RS Appendix 1",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 05 - High-Rise Office Building Fires/002_HI-RS Appendix 1.pdf",
+          "pages": 18
+        },
+        {
+          "name": "003 HI-RS Addendum 1",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 05 - High-Rise Office Building Fires/003_HI-RS Addendum 1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "001 Private Dwellings Index",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 06 - Private Dwellings/001_Private Dwellings Index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Private Dwellings Ch-1",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 06 - Private Dwellings/002_Private Dwellings Ch-1.pdf",
+          "pages": 16
+        },
+        {
+          "name": "003 Private Dwellings Ch-2",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 06 - Private Dwellings/003_Private Dwellings Ch-2.pdf",
+          "pages": 8
+        },
+        {
+          "name": "004 Private Dwellings Ch-3",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 06 - Private Dwellings/004_Private Dwellings Ch-3.pdf",
+          "pages": 8
+        },
+        {
+          "name": "005 Private Dwellings Ch-4",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 06 - Private Dwellings/005_Private Dwellings Ch-4.pdf",
+          "pages": 26
+        },
+        {
+          "name": "006 Private Dwellings Ch-5",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 06 - Private Dwellings/006_Private Dwellings Ch-5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "007 Private Dwellings Ch-6",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 06 - Private Dwellings/007_Private Dwellings Ch-6.pdf",
+          "pages": 16
+        },
+        {
+          "name": "008 Private Dwellings Ch-7",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 06 - Private Dwellings/008_Private Dwellings Ch-7.pdf",
+          "pages": 4
+        },
+        {
+          "name": "001 Collapse Operations",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 07 - Structural Collapse Operations/001_Collapse Operations.pdf",
+          "pages": 38
+        },
+        {
+          "name": "002 Collapse Operations Addendum 1",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 07 - Structural Collapse Operations/002_Collapse Operations Addendum 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 Collapse Operations Addendum 2",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 07 - Structural Collapse Operations/003_Collapse Operations Addendum 2.pdf",
+          "pages": 6
+        },
+        {
+          "name": "004 Collapse Operations Addendum 3",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 07 - Structural Collapse Operations/004_Collapse Operations Addendum 3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005 Collapse Operations Addendum 4",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 07 - Structural Collapse Operations/005_Collapse Operations Addendum 4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 Under River Rail Operations",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 08 - Under River Rail Operations/001_Under River Rail Operations.pdf",
+          "pages": 32
+        },
+        {
+          "name": "002 Under River Rail Operations Addendum 1",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 08 - Under River Rail Operations/002_Under River Rail Operations Addendum 1.pdf",
+          "pages": 36
+        },
+        {
+          "name": "001 Loft Buildings",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 09 - Loft Building Fires/001_Loft Buildings.pdf",
+          "pages": 36
+        },
+        {
+          "name": "002 Loft Buildings a1",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 09 - Loft Building Fires/002_Loft Buildings a1.pdf",
+          "pages": 30
+        },
+        {
+          "name": "FFP Ventilation",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 10 - Ventilation/FFP Ventilation.pdf",
+          "pages": 30
+        },
+        {
+          "name": "001 Command and Control Index",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 11 - Command & Control Procedures/001_Command and Control_Index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Command and Control Ch-1",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 11 - Command & Control Procedures/002_Command and Control_Ch-1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 Command and Control Ch-2",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 11 - Command & Control Procedures/003_Command and Control_Ch-2.pdf",
+          "pages": 14
+        },
+        {
+          "name": "004 Command and Control Ch-3",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 11 - Command & Control Procedures/004_Command and Control_Ch-3.pdf",
+          "pages": 8
+        },
+        {
+          "name": "005 Command and Control Ch-4",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 11 - Command & Control Procedures/005_Command and Control_Ch-4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "FFP Places of Worship Fires",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 12 - Places of Worship Fires/FFP Places of Worship Fires.pdf",
+          "pages": 28
+        },
+        {
+          "name": "001 Overhaul Operations",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 13 - Overhaul Operations/001_Overhaul Operations.pdf",
+          "pages": 40
+        },
+        {
+          "name": "FD Use of Elevators Add 1",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 14- Elevators/FD Use of Elevators Add 1.pdf",
+          "pages": 10
+        },
+        {
+          "name": "FD Use of Elevators",
+          "source": "08_FFP Volume 1 - Firefighting Procedures/Book 14- Elevators/FD Use of Elevators.pdf",
+          "pages": 30
+        }
+      ],
+      "size_chars": 1406928
+    },
+    {
+      "category": "09_FFP Volume 2 - Engine Company Operations",
+      "filename": "09_FFP_Volume_2_Engine_Company_Operations.md",
+      "document_count": 25,
+      "total_pages": 276,
+      "chapters": [
+        {
+          "name": "001 Engine Company Operations Cover",
+          "source": "09_FFP Volume 2 - Engine Company Operations/001_Engine Company Operations Cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Engine Company Operations Index",
+          "source": "09_FFP Volume 2 - Engine Company Operations/002_Engine Company Operations Index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 Chapter 1 Overview",
+          "source": "09_FFP Volume 2 - Engine Company Operations/003_Chapter 1 Overview.pdf",
+          "pages": 2
+        },
+        {
+          "name": "004 Chapter 2 Apparatus",
+          "source": "09_FFP Volume 2 - Engine Company Operations/004_Chapter 2 Apparatus.pdf",
+          "pages": 18
+        },
+        {
+          "name": "005 Chapter 2 Addendum 1 Pro Pressure Governor",
+          "source": "09_FFP Volume 2 - Engine Company Operations/005_Chapter 2 Addendum 1 Pro Pressure Governor.pdf",
+          "pages": 6
+        },
+        {
+          "name": "005a Chapter 2 Addendum 2 Pumper Flushing Procedures",
+          "source": "09_FFP Volume 2 - Engine Company Operations/005a_Chapter 2 Addendum 2 Pumper Flushing Procedures.pdf",
+          "pages": 2
+        },
+        {
+          "name": "006 Chapter 3 Equipment",
+          "source": "09_FFP Volume 2 - Engine Company Operations/006_Chapter 3 Equipment.pdf",
+          "pages": 38
+        },
+        {
+          "name": "007 Chapter 3 Addendum 1 Equipment Inspections",
+          "source": "09_FFP Volume 2 - Engine Company Operations/007_Chapter 3 Addendum 1 Equipment Inspections.pdf",
+          "pages": 2
+        },
+        {
+          "name": "008 Chapter 3 Addendum 2 Hydrant Maintenance",
+          "source": "09_FFP Volume 2 - Engine Company Operations/008_Chapter 3 Addendum 2 Hydrant Maintenance.pdf",
+          "pages": 6
+        },
+        {
+          "name": "009 Chapter 3 Addendum 3 Hose Maintenance",
+          "source": "09_FFP Volume 2 - Engine Company Operations/009_Chapter 3 Addendum 3 Hose Maintenance.pdf",
+          "pages": 12
+        },
+        {
+          "name": "010 Chapter 3 Addendum 4 Water Supply Infrastructure",
+          "source": "09_FFP Volume 2 - Engine Company Operations/010_Chapter 3 Addendum 4 Water Supply Infrastructure.pdf",
+          "pages": 12
+        },
+        {
+          "name": "010a5 Chapter 3 Addendum 5 Nozzle Companies",
+          "source": "09_FFP Volume 2 - Engine Company Operations/010a5_Chapter 3 Addendum 5 Nozzle Companies.pdf",
+          "pages": 2
+        },
+        {
+          "name": "010a6 Chapter 3 Addendum 6 Hose Decon",
+          "source": "09_FFP Volume 2 - Engine Company Operations/010a6_Chapter 3 Addendum 6 Hose Decon.pdf",
+          "pages": 2
+        },
+        {
+          "name": "011 Chapter 4 Engine Officer",
+          "source": "09_FFP Volume 2 - Engine Company Operations/011_Chapter 4 Engine Officer.pdf",
+          "pages": 22
+        },
+        {
+          "name": "012 Chapter 5 Engine Chauffeur",
+          "source": "09_FFP Volume 2 - Engine Company Operations/012_Chapter 5 Engine Chauffeur.pdf",
+          "pages": 18
+        },
+        {
+          "name": "013 Chapter 6 The Backstep",
+          "source": "09_FFP Volume 2 - Engine Company Operations/013_Chapter 6 The Backstep.pdf",
+          "pages": 24
+        },
+        {
+          "name": "014 Chapter 7 Stretching Hoselines",
+          "source": "09_FFP Volume 2 - Engine Company Operations/014_Chapter 7 Stretching Hoselines.pdf",
+          "pages": 28
+        },
+        {
+          "name": "015 Chapter 7 Addendum 1 Cockloft Nozzle",
+          "source": "09_FFP Volume 2 - Engine Company Operations/015_Chapter 7 Addendum 1 Cockloft Nozzle.pdf",
+          "pages": 6
+        },
+        {
+          "name": "016 Chapter 8 Standpipe Operations",
+          "source": "09_FFP Volume 2 - Engine Company Operations/016_Chapter 8 Standpipe Operations.pdf",
+          "pages": 28
+        },
+        {
+          "name": "017 Chapter 8 Addendum 1 High Pressure Pumping",
+          "source": "09_FFP Volume 2 - Engine Company Operations/017_Chapter 8 Addendum 1 High Pressure Pumping.pdf",
+          "pages": 6
+        },
+        {
+          "name": "018 Chapter 8 Addendum 2 Standpipe Supply Charts",
+          "source": "09_FFP Volume 2 - Engine Company Operations/018_Chapter 8 Addendum 2 Standpipe Supply Charts.pdf",
+          "pages": 2
+        },
+        {
+          "name": "019 Chapter 8 Addendum 3 High Rise Nozzle",
+          "source": "09_FFP Volume 2 - Engine Company Operations/019_Chapter 8 Addendum 3 High Rise Nozzle.pdf",
+          "pages": 6
+        },
+        {
+          "name": "020 Chapter 8 Addendum 4 Air Pressurized Standpipe",
+          "source": "09_FFP Volume 2 - Engine Company Operations/020_Chapter 8 Addendum 4 Air Pressurized Standpipe.pdf",
+          "pages": 4
+        },
+        {
+          "name": "021 Chapter 9 Large Caliber Streams",
+          "source": "09_FFP Volume 2 - Engine Company Operations/021_Chapter 9 Large Caliber Streams.pdf",
+          "pages": 12
+        },
+        {
+          "name": "022 Chapter 10 Engine Company Emergencies",
+          "source": "09_FFP Volume 2 - Engine Company Operations/022_Chapter 10 Engine Company Emergencies.pdf",
+          "pages": 14
+        }
+      ],
+      "size_chars": 432582
+    },
+    {
+      "category": "10_FFP Volume 3 - Ladder Company Operations",
+      "filename": "10_FFP_Volume_3_Ladder_Company_Operations.md",
+      "document_count": 13,
+      "total_pages": 198,
+      "chapters": [
+        {
+          "name": "000 Ladder Ops Cover",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/000_Ladder Ops Cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 Portable Ladders",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/001_Portable Ladders.pdf",
+          "pages": 30
+        },
+        {
+          "name": "002 Aerial Ladders",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/002_Aerial Ladders.pdf",
+          "pages": 26
+        },
+        {
+          "name": "003 Tenements",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/003_Tenements.pdf",
+          "pages": 66
+        },
+        {
+          "name": "006 Tower Ladder Intro Ch 1",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/006_Tower Ladder_Intro Ch 1.pdf",
+          "pages": 10
+        },
+        {
+          "name": "007 Tower Ladder Apparatus Positioning Ch 2",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/007_Tower Ladder_Apparatus Positioning Ch 2.pdf",
+          "pages": 26
+        },
+        {
+          "name": "008 Tower Ladder Bucket Operations Ch 3",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/008_Tower Ladder_Bucket Operations Ch 3.pdf",
+          "pages": 8
+        },
+        {
+          "name": "009 Tower Ladder Large Caliber Stream Ops Ch 4",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/009_Tower Ladder_Large Caliber Stream Ops Ch 4.pdf",
+          "pages": 6
+        },
+        {
+          "name": "010 Tower Ladder Special Situations Ch 5",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/010_Tower Ladder_Special Situations Ch 5.pdf",
+          "pages": 4
+        },
+        {
+          "name": "011 Tower Ladder Chief Officer Considerations Ch 6",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/011_Tower Ladder_Chief Officer Considerations Ch 6.pdf",
+          "pages": 2
+        },
+        {
+          "name": "012 Tower Ladder Inspection Ch 7",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/012_Tower Ladder_Inspection Ch 7.pdf",
+          "pages": 2
+        },
+        {
+          "name": "013 Tower Ladder Training Ch 8",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/013_Tower Ladder_Training Ch 8.pdf",
+          "pages": 2
+        },
+        {
+          "name": "014 Tower Ladder Drills Ch 9",
+          "source": "10_FFP Volume 3 - Ladder Company Operations/014_Tower Ladder_Drills Ch 9.pdf",
+          "pages": 14
+        }
+      ],
+      "size_chars": 307744
+    },
+    {
+      "category": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress",
+      "filename": "11_FFP_Volume_4_Managing_Incidents_Involving_Members_In_Distress.md",
+      "document_count": 14,
+      "total_pages": 64,
+      "chapters": [
+        {
+          "name": "001 Members in Distress Cover",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/001 Members in Distress Cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Managing Members in Distress Index",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/002 Managing Members in Distress Index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 Managing Members in Distress Ch-1",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/003 Managing Members in Distress Ch-1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "004 Managing Members in Distress Ch-2",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/004 Managing Members in Distress Ch-2.pdf",
+          "pages": 8
+        },
+        {
+          "name": "005 Managing Members in Distress Ch-2 Add1",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/005 Managing Members in Distress Ch-2 Add1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "006 Managing Members in Distress Ch-2 Add2",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/006 Managing Members in Distress Ch-2 Add2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "007 Managing Members in Distress Ch-3",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/007 Managing Members in Distress Ch-3.pdf",
+          "pages": 8
+        },
+        {
+          "name": "008 Managing Members in Distress Ch-3 Add1",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/008 Managing Members in Distress Ch-3 Add1.pdf",
+          "pages": 8
+        },
+        {
+          "name": "009 Managing Members in Distress Ch-3 Add2",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/009 Managing Members in Distress Ch-3 Add2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "010 Managing Members in Distress Ch-3 Add3",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/010 Managing Members in Distress Ch-3 Add3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "011 Managing Members in Distress Ch-3 Add4",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/011 Managing Members in Distress Ch-3 Add4.pdf",
+          "pages": 4
+        },
+        {
+          "name": "012 Managing Members in Distress Ch-4",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/012 Managing Members in Distress Ch-4.pdf",
+          "pages": 6
+        },
+        {
+          "name": "013 Managing Members in Distress Ch-5",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/013 Managing Members in Distress Ch-5.pdf",
+          "pages": 10
+        },
+        {
+          "name": "014 Managing Members in Distress Ch-5 Add1",
+          "source": "11_FFP Volume 4 - Managing Incidents Involving Members In Distress/014 Managing Members in Distress Ch-5 Add1.pdf",
+          "pages": 2
+        }
+      ],
+      "size_chars": 92697
+    },
+    {
+      "category": "12_Hazardous Materials (Fire Tactics & Procedures)",
+      "filename": "12_Hazardous_Materials_Fire_Tactics_Procedures.md",
+      "document_count": 31,
+      "total_pages": 182,
+      "chapters": [
+        {
+          "name": "001 Hm-cover",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/001_Hm-cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Hm-index",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/002_Hm-index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 H-M01",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/003_H-M01.pdf",
+          "pages": 26
+        },
+        {
+          "name": "004 H-M02",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/004_H-M02.pdf",
+          "pages": 6
+        },
+        {
+          "name": "005 H-M03",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/005_H-M03.pdf",
+          "pages": 2
+        },
+        {
+          "name": "006 H-M04",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/006_H-M04.pdf",
+          "pages": 6
+        },
+        {
+          "name": "008 H-M04a1",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/008_H-M04a1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "009 H-m05",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/009_H-m05.pdf",
+          "pages": 8
+        },
+        {
+          "name": "010 H-m06",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/010_H-m06.pdf",
+          "pages": 4
+        },
+        {
+          "name": "011 H-m06aa",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/011_H-m06aa.pdf",
+          "pages": 2
+        },
+        {
+          "name": "012 H-m06ab",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/012_H-m06ab.pdf",
+          "pages": 2
+        },
+        {
+          "name": "013 H-m06ac",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/013_H-m06ac.pdf",
+          "pages": 2
+        },
+        {
+          "name": "014 H-m07",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/014_H-m07.pdf",
+          "pages": 8
+        },
+        {
+          "name": "015 H-m08",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/015_H-m08.pdf",
+          "pages": 4
+        },
+        {
+          "name": "016 H-m09",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/016_H-m09.pdf",
+          "pages": 2
+        },
+        {
+          "name": "017 H-m10",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/017_H-m10.pdf",
+          "pages": 6
+        },
+        {
+          "name": "018 H-m10a1",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/018_H-m10a1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "019 H-m11",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/019_H-m11.pdf",
+          "pages": 4
+        },
+        {
+          "name": "020 H-m12",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/020_H-m12.pdf",
+          "pages": 12
+        },
+        {
+          "name": "021 H-m13",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/021_H-m13.pdf",
+          "pages": 4
+        },
+        {
+          "name": "022 H-m13a1",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/022_H-m13a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "023 H-m14",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/023_H-m14.pdf",
+          "pages": 6
+        },
+        {
+          "name": "024 H-m14a1",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/024_H-m14a1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "025 H-m15",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/025_H-m15.pdf",
+          "pages": 6
+        },
+        {
+          "name": "026 H-m16",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/026_H-m16.pdf",
+          "pages": 4
+        },
+        {
+          "name": "027 H-m16a1",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/027_H-m16a1.pdf",
+          "pages": 8
+        },
+        {
+          "name": "028 H-m17",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/028_H-m17.pdf",
+          "pages": 2
+        },
+        {
+          "name": "029 H-m18",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/029_H-m18.pdf",
+          "pages": 4
+        },
+        {
+          "name": "030 HM-19",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/030_HM-19.pdf",
+          "pages": 12
+        },
+        {
+          "name": "031 HM-20",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/031_HM-20.pdf",
+          "pages": 12
+        },
+        {
+          "name": "032 HM-21",
+          "source": "12_Hazardous Materials (Fire Tactics & Procedures)/032_HM-21.pdf",
+          "pages": 10
+        }
+      ],
+      "size_chars": 266169
+    },
+    {
+      "category": "13_ICS Manual (Incident Command System)",
+      "filename": "13_ICS_Manual_Incident_Command_System.md",
+      "document_count": 12,
+      "total_pages": 100,
+      "chapters": [
+        {
+          "name": "000a ICS COVER",
+          "source": "13_ICS Manual (Incident Command System)/000a_ICS_COVER.pdf",
+          "pages": 2
+        },
+        {
+          "name": "000b ICS TOC",
+          "source": "13_ICS Manual (Incident Command System)/000b_ICS_TOC.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 ICS Chapter 1",
+          "source": "13_ICS Manual (Incident Command System)/001_ICS Chapter 1.pdf",
+          "pages": 18
+        },
+        {
+          "name": "002 ICS Chapter 2",
+          "source": "13_ICS Manual (Incident Command System)/002_ICS Chapter 2.pdf",
+          "pages": 30
+        },
+        {
+          "name": "002a1 ICS Chapter 2a1",
+          "source": "13_ICS Manual (Incident Command System)/002a1_ICS Chapter 2a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002a2 ICS Chapter 2a2",
+          "source": "13_ICS Manual (Incident Command System)/002a2_ICS Chapter 2a2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "002a3 ICS Chapter 2a3",
+          "source": "13_ICS Manual (Incident Command System)/002a3_ICS Chapter 2a3.pdf",
+          "pages": 8
+        },
+        {
+          "name": "002a4 ICS Chapter 2a4",
+          "source": "13_ICS Manual (Incident Command System)/002a4_ICS Chapter 2a4.pdf",
+          "pages": 4
+        },
+        {
+          "name": "002a5 ICS Chapter 2a5",
+          "source": "13_ICS Manual (Incident Command System)/002a5_ICS Chapter 2a5.pdf",
+          "pages": 6
+        },
+        {
+          "name": "002a6 ICS Chapter 2a6",
+          "source": "13_ICS Manual (Incident Command System)/002a6_ICS Chapter 2a6.pdf",
+          "pages": 2
+        },
+        {
+          "name": "007 ICS Chapter 7",
+          "source": "13_ICS Manual (Incident Command System)/007_ICS Chapter 7.pdf",
+          "pages": 8
+        },
+        {
+          "name": "999 ICS Glossary",
+          "source": "13_ICS Manual (Incident Command System)/999_ICS Glossary.pdf",
+          "pages": 14
+        }
+      ],
+      "size_chars": 179927
+    },
+    {
+      "category": "14_Marine Manual",
+      "filename": "14_Marine_Manual.md",
+      "document_count": 7,
+      "total_pages": 82,
+      "chapters": [
+        {
+          "name": "001 Mar-cover",
+          "source": "14_Marine Manual/001_Mar-cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Marine Manual Glossary",
+          "source": "14_Marine Manual/002_Marine Manual Glossary.pdf",
+          "pages": 18
+        },
+        {
+          "name": "003 Marine Manual Chapter 1 Marine Operations",
+          "source": "14_Marine Manual/003_Marine Manual Chapter 1 Marine Operations.pdf",
+          "pages": 18
+        },
+        {
+          "name": "004 Marine Manual Chapter 2 Ship Construction",
+          "source": "14_Marine Manual/004_Marine Manual Chapter 2 Ship Construction.pdf",
+          "pages": 12
+        },
+        {
+          "name": "005 Marine Manual Chapter 3 Firefighting Operations",
+          "source": "14_Marine Manual/005_Marine Manual Chapter 3 Firefighting Operations.pdf",
+          "pages": 12
+        },
+        {
+          "name": "006 Marine Manual Chapter 4 Policy for Non-FDNY Personnel on Marine Vessels",
+          "source": "14_Marine Manual/006_Marine Manual Chapter 4 Policy for Non-FDNY Personnel on Marine Vessels.pdf",
+          "pages": 2
+        },
+        {
+          "name": "999 Marine Manual Appendix 1 Photos & Figures",
+          "source": "14_Marine Manual/999_Marine Manual Appendix 1 Photos & Figures.pdf",
+          "pages": 18
+        }
+      ],
+      "size_chars": 118306
+    },
+    {
+      "category": "15_Operational Procedures At Emergencies (Emergency Procedures)",
+      "filename": "15_Operational_Procedures_At_Emergencies_Emergency_Procedures.md",
+      "document_count": 24,
+      "total_pages": 253,
+      "chapters": [
+        {
+          "name": "001 EP-cover",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/001_EP-cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 EP-index",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/002_EP-index.pdf",
+          "pages": 1
+        },
+        {
+          "name": "003 EP Confined Space",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/003_EP Confined Space.pdf",
+          "pages": 10
+        },
+        {
+          "name": "004 EP Disentanglement",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/004_EP Disentanglement.pdf",
+          "pages": 24
+        },
+        {
+          "name": "005 EP Scaffold",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/005_EP Scaffold.pdf",
+          "pages": 16
+        },
+        {
+          "name": "006 EP Steam",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/006_EP Steam.pdf",
+          "pages": 10
+        },
+        {
+          "name": "007 EP Water Rescue 1",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/007_EP Water Rescue 1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "008 EP Water Rescue 1 Add 1",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/008_EP Water Rescue 1 Add 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "009 EP Water Rescue 1 App A",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/009_EP Water Rescue 1 App A.pdf",
+          "pages": 2
+        },
+        {
+          "name": "010 EP Water Rescue 2",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/010_EP Water Rescue 2.pdf",
+          "pages": 20
+        },
+        {
+          "name": "011 EP Water Rescue 2 Add 1",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/011_EP Water Rescue 2 Add 1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "012 EP Water Rescue 2 Add 2",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/012_EP Water Rescue 2 Add 2.pdf",
+          "pages": 6
+        },
+        {
+          "name": "013 EP Water Rescue 3",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/013_EP Water Rescue 3.pdf",
+          "pages": 12
+        },
+        {
+          "name": "014 EP Water Rescue 4",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/014_EP Water Rescue 4.pdf",
+          "pages": 8
+        },
+        {
+          "name": "015 EP Water Rescue 5",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/015_EP Water Rescue 5.pdf",
+          "pages": 4
+        },
+        {
+          "name": "016 EP Nat Gas",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/016_EP Nat Gas.pdf",
+          "pages": 46
+        },
+        {
+          "name": "017 EP Nat Gas A1",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/017_EP Nat Gas A1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "018 EP Nat Gas A2",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/018_EP Nat Gas A2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "019 EP Nat Gas A3",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/019_EP Nat Gas A3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "020 EP Nat Gas A4",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/020_EP Nat Gas A4.pdf",
+          "pages": 4
+        },
+        {
+          "name": "021 EP Nat Gas A5",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/021_EP Nat Gas A5.pdf",
+          "pages": 4
+        },
+        {
+          "name": "022 EP Elevator Emergencies",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/022_EP Elevator Emergencies.pdf",
+          "pages": 34
+        },
+        {
+          "name": "023 EP Elevator Emergencies Add 1",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/023_EP Elevator Emergencies Add 1.pdf",
+          "pages": 20
+        },
+        {
+          "name": "024 EP Escalators",
+          "source": "15_Operational Procedures At Emergencies (Emergency Procedures)/024_EP Escalators.pdf",
+          "pages": 10
+        }
+      ],
+      "size_chars": 394050
+    },
+    {
+      "category": "16_PAIDs (Personnel Administrative Information Directives)",
+      "filename": "16_PAIDs_Personnel_Administrative_Information_Directives.md",
+      "document_count": 132,
+      "total_pages": 613,
+      "chapters": [
+        {
+          "name": "PAID Cover",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 00 - Cover & Index/PAID Cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "PAID Index",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 00 - Cover & Index/PAID Index.pdf",
+          "pages": 1
+        },
+        {
+          "name": "001 PAID 01 Introduction",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/001_PAID 01 Introduction.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 PAID 01 Chapter 01",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/002_PAID 01 Chapter 01.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 PAID 01 Chapter 02",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/003_PAID 01 Chapter 02.pdf",
+          "pages": 1
+        },
+        {
+          "name": "004 PAID 01 Chapter 03",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/004_PAID 01 Chapter 03.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005 PAID 01 Chapter 04",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/005_PAID 01 Chapter 04.pdf",
+          "pages": 4
+        },
+        {
+          "name": "006 PAID 01 Chapter 05",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/006_PAID 01 Chapter 05.pdf",
+          "pages": 2
+        },
+        {
+          "name": "007 PAID 01 Chapter 06",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/007_PAID 01 Chapter 06.pdf",
+          "pages": 2
+        },
+        {
+          "name": "008 PAID 01 Chapter 07",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/008_PAID 01 Chapter 07.pdf",
+          "pages": 2
+        },
+        {
+          "name": "009 PAID 01 Chapter 08",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/009_PAID 01 Chapter 08.pdf",
+          "pages": 5
+        },
+        {
+          "name": "010 PAID 01 Chapter 09",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/010_PAID 01 Chapter 09.pdf",
+          "pages": 6
+        },
+        {
+          "name": "011 PAID 01 Chapter 10",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/011_PAID 01 Chapter 10.pdf",
+          "pages": 8
+        },
+        {
+          "name": "012 PAID 01 Chapter 11",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/012_PAID 01 Chapter 11.pdf",
+          "pages": 6
+        },
+        {
+          "name": "013 PAID 01 Chapter 12",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/013_PAID 01 Chapter 12.pdf",
+          "pages": 2
+        },
+        {
+          "name": "014 PAID 01 Chapter 13",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/014_PAID 01 Chapter 13.pdf",
+          "pages": 2
+        },
+        {
+          "name": "015 PAID 01 Chapter 14",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/015_PAID 01 Chapter 14.pdf",
+          "pages": 2
+        },
+        {
+          "name": "016 PAID 01 Chapter 15",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/016_PAID 01 Chapter 15.pdf",
+          "pages": 12
+        },
+        {
+          "name": "017 PAID 01 Chapter 16",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 01 - Leaves of Absence/017_PAID 01 Chapter 16.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 PAID 02 Introduction",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 02 - Evaluation Programs/001_PAID 02 Introduction.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 PAID 02 Chapter 01",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 02 - Evaluation Programs/002_PAID 02 Chapter 01.pdf",
+          "pages": 4
+        },
+        {
+          "name": "003 PAID 02 Chapter 02",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 02 - Evaluation Programs/003_PAID 02 Chapter 02.pdf",
+          "pages": 4
+        },
+        {
+          "name": "004 PAID 02 Chapter 03",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 02 - Evaluation Programs/004_PAID 02 Chapter 03.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005 PAID 02 Chapter 04",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 02 - Evaluation Programs/005_PAID 02 Chapter 04.pdf",
+          "pages": 4
+        },
+        {
+          "name": "006 PAID 02 Chapter 05",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 02 - Evaluation Programs/006_PAID 02 Chapter 05.pdf",
+          "pages": 18
+        },
+        {
+          "name": "007 PAID 02 Chapter 06",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 02 - Evaluation Programs/007_PAID 02 Chapter 06.pdf",
+          "pages": 4
+        },
+        {
+          "name": "001 PAID 03 Introduction",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/001_PAID 03 Introduction.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 PAID 03 Chapter 01",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/002_PAID 03 Chapter 01.pdf",
+          "pages": 12
+        },
+        {
+          "name": "003 PAID 03 Chapter 01 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/003_PAID 03 Chapter 01 Addendum 1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "004 PAID 03 Chapter 01 Addendum 2",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/004_PAID 03 Chapter 01 Addendum 2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005 PAID 03 Chapter 01 Addendum 3",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/005_PAID 03 Chapter 01 Addendum 3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "006 PAID 03 Chapter 01 Addendum 4",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/006_PAID 03 Chapter 01 Addendum 4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "007 PAID 03 Chapter 02",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/007_PAID 03 Chapter 02.pdf",
+          "pages": 8
+        },
+        {
+          "name": "008 PAID 03 Chapter 02 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/008_PAID 03 Chapter 02 Addendum 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "009 PAID 03 Chapter 02 Addendum 2",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/009_PAID 03 Chapter 02 Addendum 2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "010 PAID 03 Chapter 02 Addendum 3",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/010_PAID 03 Chapter 02 Addendum 3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "011 PAID 03 Chapter 02 Addendum 4",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/011_PAID 03 Chapter 02 Addendum 4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "012 PAID 03 Chapter 02 Addendum 5",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/012_PAID 03 Chapter 02 Addendum 5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "013 PAID 03 Chapter 03",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/013_PAID 03 Chapter 03.pdf",
+          "pages": 8
+        },
+        {
+          "name": "014 PAID 03 Chapter 03 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/014_PAID 03 Chapter 03 Addendum 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "015 PAID 03 Chapter 03 Addendum 2",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/015_PAID 03 Chapter 03 Addendum 2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "016 PAID 03 Chapter 04",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/016_PAID 03 Chapter 04.pdf",
+          "pages": 2
+        },
+        {
+          "name": "017 PAID 03 Chapter 05",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/017_PAID 03 Chapter 05.pdf",
+          "pages": 2
+        },
+        {
+          "name": "018 PAID 03 Chapter 06",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/018_PAID 03 Chapter 06.pdf",
+          "pages": 2
+        },
+        {
+          "name": "019 PAID 03 Chapter 07",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 03 - Overtime Policies/019_PAID 03 Chapter 07.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 PAID 04 Introduction",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 04 - Monetary Differential Policies/001_PAID 04 Introduction.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 PAID 04 Chapter 01",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 04 - Monetary Differential Policies/002_PAID 04 Chapter 01.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 PAID 04 Chapter 02",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 04 - Monetary Differential Policies/003_PAID 04 Chapter 02.pdf",
+          "pages": 4
+        },
+        {
+          "name": "004 PAID 04 Chapter 03",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 04 - Monetary Differential Policies/004_PAID 04 Chapter 03.pdf",
+          "pages": 4
+        },
+        {
+          "name": "004a PAID 04 Chapter 03 Appendix A",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 04 - Monetary Differential Policies/004a_PAID 04 Chapter 03 Appendix A.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005 PAID 04 Chapter 04",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 04 - Monetary Differential Policies/005_PAID 04 Chapter 04.pdf",
+          "pages": 2
+        },
+        {
+          "name": "006 PAID 04 Chapter 05",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 04 - Monetary Differential Policies/006_PAID 04 Chapter 05.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 PAID 05 Introduction",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 05 - Mutual Exchange Policies/001_PAID 05 Introduction.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 PAID 05 Chapter 01",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 05 - Mutual Exchange Policies/002_PAID 05 Chapter 01.pdf",
+          "pages": 8
+        },
+        {
+          "name": "003 PAID 05 Chapter 02",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 05 - Mutual Exchange Policies/003_PAID 05 Chapter 02.pdf",
+          "pages": 4
+        },
+        {
+          "name": "004 PAID 05 Chapter 03",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 05 - Mutual Exchange Policies/004_PAID 05 Chapter 03.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005 PAID 05 Chapter 04",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 05 - Mutual Exchange Policies/005_PAID 05 Chapter 04.pdf",
+          "pages": 4
+        },
+        {
+          "name": "001 PAID 06 Introduction",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 06 - Training Policies/001_PAID 06 Introduction.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 PAID 06 Chapter 01",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 06 - Training Policies/002_PAID 06 Chapter 01.pdf",
+          "pages": 2
+        },
+        {
+          "name": "004 PAID 06 Chapter 02",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 06 - Training Policies/004_PAID 06 Chapter 02.pdf",
+          "pages": 4
+        },
+        {
+          "name": "006 PAID 06 Chapter 03",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 06 - Training Policies/006_PAID 06 Chapter 03.pdf",
+          "pages": 2
+        },
+        {
+          "name": "007 PAID 06 Chapter 04",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 06 - Training Policies/007_PAID 06 Chapter 04.pdf",
+          "pages": 2
+        },
+        {
+          "name": "008 PAID 06 Chapter 05",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 06 - Training Policies/008_PAID 06 Chapter 05.pdf",
+          "pages": 6
+        },
+        {
+          "name": "009 PAID 06 Chapter 05 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 06 - Training Policies/009_PAID 06 Chapter 05 Addendum 1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "010 PAID 06 Chapter 06",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 06 - Training Policies/010_PAID 06 Chapter 06.pdf",
+          "pages": 8
+        },
+        {
+          "name": "001 PAID 07 Introduction",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/001_PAID 07 Introduction.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 PAID 07 Chapter 01",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/002_PAID 07 Chapter 01.pdf",
+          "pages": 6
+        },
+        {
+          "name": "003 PAID 07 Chapter 02",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/003_PAID 07 Chapter 02.pdf",
+          "pages": 6
+        },
+        {
+          "name": "004 PAID 07 Chapter 03",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/004_PAID 07 Chapter 03.pdf",
+          "pages": 6
+        },
+        {
+          "name": "005 PAID 07 Chapter 04",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/005_PAID 07 Chapter 04.pdf",
+          "pages": 4
+        },
+        {
+          "name": "006 PAID 07 Chapter 04 Appendix 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/006_PAID 07 Chapter 04 Appendix 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "007 PAID 07 Chapter 05",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/007_PAID 07 Chapter 05.pdf",
+          "pages": 2
+        },
+        {
+          "name": "008 PAID 07 Chapter 06",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/008_PAID 07 Chapter 06.pdf",
+          "pages": 2
+        },
+        {
+          "name": "009 PAID 07 Chapter 07",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/009_PAID 07 Chapter 07.pdf",
+          "pages": 10
+        },
+        {
+          "name": "010 PAID 07 Chapter 07 Appendix 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/010_PAID 07 Chapter 07 Appendix 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "011 PAID 07 Chapter 07 Appendix 2",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/011_PAID 07 Chapter 07 Appendix 2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "012 PAID 07 Chapter 07 Appendix 3",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/012_PAID 07 Chapter 07 Appendix 3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "013 PAID 07 Chapter 07 Appendix 4",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/013_PAID 07 Chapter 07 Appendix 4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "014 PAID 07 Chapter 08",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 07 - Work Schedule Policies/014_PAID 07 Chapter 08.pdf",
+          "pages": 4
+        },
+        {
+          "name": "001 PAID 08 Introduction",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/001_PAID 08 Introduction.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 PAID 08 Chapter 01",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/002_PAID 08 Chapter 01.pdf",
+          "pages": 4
+        },
+        {
+          "name": "003 PAID 08 Chapter 02",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/003_PAID 08 Chapter 02.pdf",
+          "pages": 10
+        },
+        {
+          "name": "004 PAID 08 Chapter 02 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/004_PAID 08 Chapter 02 Addendum 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005 PAID 08 Chapter 02 Addendum 2",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/005_PAID 08 Chapter 02 Addendum 2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "006 PAID 08 Chapter 03",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/006_PAID 08 Chapter 03.pdf",
+          "pages": 4
+        },
+        {
+          "name": "007 PAID 08 Chapter 03 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/007_PAID 08 Chapter 03 Addendum 1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "008 PAID 08 Chapter 04",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/008_PAID 08 Chapter 04.pdf",
+          "pages": 8
+        },
+        {
+          "name": "009 PAID 08 Chapter 05",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/009_PAID 08 Chapter 05.pdf",
+          "pages": 14
+        },
+        {
+          "name": "010 PAID 08 Chapter 05 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/010_PAID 08 Chapter 05 Addendum 1.pdf",
+          "pages": 8
+        },
+        {
+          "name": "011 PAID 08 Chapter 06",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/011_PAID 08 Chapter 06.pdf",
+          "pages": 6
+        },
+        {
+          "name": "012 PAID 08 Chapter 07",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/012_PAID 08 Chapter 07.pdf",
+          "pages": 8
+        },
+        {
+          "name": "013 PAID 08 Chapter 08",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/013_PAID 08 Chapter 08.pdf",
+          "pages": 2
+        },
+        {
+          "name": "014 PAID 08 Chapter 08 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/014_PAID 08 Chapter 08 Addendum 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "016 PAID 08 Chapter 09",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/016_PAID 08 Chapter 09.pdf",
+          "pages": 2
+        },
+        {
+          "name": "017 PAID 08 Chapter 10",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/017_PAID 08 Chapter 10.pdf",
+          "pages": 14
+        },
+        {
+          "name": "018 PAID 08 Chapter 11",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/018_PAID 08 Chapter 11.pdf",
+          "pages": 8
+        },
+        {
+          "name": "019 PAID 08 Chapter 12",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/019_PAID 08 Chapter 12.pdf",
+          "pages": 4
+        },
+        {
+          "name": "020 PAID 08 Chapter 13",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/020_PAID 08 Chapter 13.pdf",
+          "pages": 4
+        },
+        {
+          "name": "021 PAID 08 Chapter 14",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/021_PAID 08 Chapter 14.pdf",
+          "pages": 6
+        },
+        {
+          "name": "022 PAID 08 Chapter 14 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/022_PAID 08 Chapter 14 Addendum 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "023 PAID 08 Chapter 15",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/023_PAID 08 Chapter 15.pdf",
+          "pages": 2
+        },
+        {
+          "name": "024 PAID 08 Chapter 15 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/024_PAID 08 Chapter 15 Addendum 1.pdf",
+          "pages": 16
+        },
+        {
+          "name": "025 PAID 08 Chapter 15 Addendum 2",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/025_PAID 08 Chapter 15 Addendum 2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "026 PAID 08 Chapter 16",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/026_PAID 08 Chapter 16.pdf",
+          "pages": 2
+        },
+        {
+          "name": "027 PAID 08 Chapter 17",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/027_PAID 08 Chapter 17.pdf",
+          "pages": 42
+        },
+        {
+          "name": "028 PAID 08 Chapter 17 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/028_PAID 08 Chapter 17 Addendum 1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "029 PAID 08 Chapter 18",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/029_PAID 08 Chapter 18.pdf",
+          "pages": 2
+        },
+        {
+          "name": "030 PAID 08 Chapter 19",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 08 - Professional Workplace Policies/030_PAID 08 Chapter 19.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 PAID 09 Introduction",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/001_PAID 09 Introduction.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 PAID 09 Chapter 01",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/002_PAID 09 Chapter 01.pdf",
+          "pages": 14
+        },
+        {
+          "name": "003 PAID 09 Chapter 02",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/003_PAID 09 Chapter 02.pdf",
+          "pages": 6
+        },
+        {
+          "name": "004 PAID 09 Chapter 02 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/004_PAID 09 Chapter 02 Addendum 1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "005 PAID 09 Chapter 03",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/005_PAID 09 Chapter 03.pdf",
+          "pages": 2
+        },
+        {
+          "name": "006 PAID 09 Chapter 04",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/006_PAID 09 Chapter 04.pdf",
+          "pages": 2
+        },
+        {
+          "name": "007 PAID 09 Chapter 05",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/007_PAID 09 Chapter 05.pdf",
+          "pages": 10
+        },
+        {
+          "name": "008 PAID 09 Chapter 06",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/008_PAID 09 Chapter 06.pdf",
+          "pages": 4
+        },
+        {
+          "name": "009 PAID 09 Chapter 06 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/009_PAID 09 Chapter 06 Addendum 1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "010 PAID 09 Chapter 06 Addendum 2",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/010_PAID 09 Chapter 06 Addendum 2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "011 PAID 09 Chapter 07",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/011_PAID 09 Chapter 07.pdf",
+          "pages": 6
+        },
+        {
+          "name": "012 PAID 09 Chapter 07 Addendum 1",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/012_PAID 09 Chapter 07 Addendum 1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "013 PAID 09 Chapter 08",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/013_PAID 09 Chapter 08.pdf",
+          "pages": 20
+        },
+        {
+          "name": "014 PAID 09 Chapter 09",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/014_PAID 09 Chapter 09.pdf",
+          "pages": 2
+        },
+        {
+          "name": "015 PAID 09 Chapter 10",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/015_PAID 09 Chapter 10.pdf",
+          "pages": 2
+        },
+        {
+          "name": "016 PAID 09 Chapter 11",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/016_PAID 09 Chapter 11.pdf",
+          "pages": 10
+        },
+        {
+          "name": "017 PAID 09 Chapter 12",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/017_PAID 09 Chapter 12.pdf",
+          "pages": 2
+        },
+        {
+          "name": "018 PAID 09 Chapter 13",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/018_PAID 09 Chapter 13.pdf",
+          "pages": 2
+        },
+        {
+          "name": "019 PAID 09 Chapter 14",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 09 - Workplace Directives/019_PAID 09 Chapter 14.pdf",
+          "pages": 4
+        },
+        {
+          "name": "001 PAID 10 Introduction",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 10 - Vehicle Policies/001_PAID 10 Introduction.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 PAID 10 Chapter 01",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 10 - Vehicle Policies/002_PAID 10 Chapter 01.pdf",
+          "pages": 6
+        },
+        {
+          "name": "003 PAID 10 Chapter 02",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 10 - Vehicle Policies/003_PAID 10 Chapter 02.pdf",
+          "pages": 4
+        },
+        {
+          "name": "004 PAID 10 Chapter 03",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 10 - Vehicle Policies/004_PAID 10 Chapter 03.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005 PAID 10 Chapter 04",
+          "source": "16_PAIDs (Personnel Administrative Information Directives)/PAID 10 - Vehicle Policies/005_PAID 10 Chapter 04.pdf",
+          "pages": 4
+        }
+      ],
+      "size_chars": 1023772
+    },
+    {
+      "category": "17_Regulations For The Uniformed Force",
+      "filename": "17_Regulations_For_The_Uniformed_Force.md",
+      "document_count": 34,
+      "total_pages": 190,
+      "chapters": [
+        {
+          "name": "000a Regulations - Cover",
+          "source": "17_Regulations For The Uniformed Force/000a_Regulations - Cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "000b Regulations - Index",
+          "source": "17_Regulations For The Uniformed Force/000b_Regulations - Index.pdf",
+          "pages": 8
+        },
+        {
+          "name": "001 Chapter 01 Definitions",
+          "source": "17_Regulations For The Uniformed Force/001_Chapter 01 Definitions.pdf",
+          "pages": 4
+        },
+        {
+          "name": "002 Chapter 02 Organization",
+          "source": "17_Regulations For The Uniformed Force/002_Chapter 02 Organization.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 Chapter 03 Chief of Department",
+          "source": "17_Regulations For The Uniformed Force/003_Chapter 03 Chief of Department.pdf",
+          "pages": 2
+        },
+        {
+          "name": "004 Chapter 04 Chief In Charge",
+          "source": "17_Regulations For The Uniformed Force/004_Chapter 04 Chief In Charge.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005 Chapter 05 Asst and Dep Asst Chief",
+          "source": "17_Regulations For The Uniformed Force/005_Chapter 05 Asst and Dep Asst Chief.pdf",
+          "pages": 6
+        },
+        {
+          "name": "006 Chapter 06 Deputy Chief",
+          "source": "17_Regulations For The Uniformed Force/006_Chapter 06 Deputy Chief.pdf",
+          "pages": 6
+        },
+        {
+          "name": "007 Chapter 07 Battalion Chief",
+          "source": "17_Regulations For The Uniformed Force/007_Chapter 07 Battalion Chief.pdf",
+          "pages": 8
+        },
+        {
+          "name": "008 Chapter 08 Fire Investigation",
+          "source": "17_Regulations For The Uniformed Force/008_Chapter 08 Fire Investigation.pdf",
+          "pages": 4
+        },
+        {
+          "name": "009 Chapter 09 Chaplains",
+          "source": "17_Regulations For The Uniformed Force/009_Chapter 09 Chaplains.pdf",
+          "pages": 2
+        },
+        {
+          "name": "010 Chapter 10 Company Officers",
+          "source": "17_Regulations For The Uniformed Force/010_Chapter 10 Company Officers.pdf",
+          "pages": 4
+        },
+        {
+          "name": "011 Chapter 11 Fire and Emergency Operations",
+          "source": "17_Regulations For The Uniformed Force/011_Chapter 11 Fire and Emergency Operations.pdf",
+          "pages": 14
+        },
+        {
+          "name": "012 Chapter 12 Fire Prevention",
+          "source": "17_Regulations For The Uniformed Force/012_Chapter 12 Fire Prevention.pdf",
+          "pages": 4
+        },
+        {
+          "name": "013 Chapter 13 Apparatus and Equipment",
+          "source": "17_Regulations For The Uniformed Force/013_Chapter 13 Apparatus and Equipment.pdf",
+          "pages": 8
+        },
+        {
+          "name": "014 Chapter 14 Special Operations Command",
+          "source": "17_Regulations For The Uniformed Force/014_Chapter 14 Special Operations Command.pdf",
+          "pages": 2
+        },
+        {
+          "name": "015 Chapter 15 Unit Administration",
+          "source": "17_Regulations For The Uniformed Force/015_Chapter 15 Unit Administration.pdf",
+          "pages": 4
+        },
+        {
+          "name": "016 Chapter 16 Unit Personnel Procedure",
+          "source": "17_Regulations For The Uniformed Force/016_Chapter 16 Unit Personnel Procedure.pdf",
+          "pages": 6
+        },
+        {
+          "name": "017 Chapter 17 Leaves of Absence",
+          "source": "17_Regulations For The Uniformed Force/017_Chapter 17 Leaves of Absence.pdf",
+          "pages": 4
+        },
+        {
+          "name": "018 Chapter 18 Recall",
+          "source": "17_Regulations For The Uniformed Force/018_Chapter 18 Recall.pdf",
+          "pages": 14
+        },
+        {
+          "name": "019 Chapter 19 Company Quarters",
+          "source": "17_Regulations For The Uniformed Force/019_Chapter 19 Company Quarters.pdf",
+          "pages": 8
+        },
+        {
+          "name": "020 Chapter 20 Housewatch Duty",
+          "source": "17_Regulations For The Uniformed Force/020_Chapter 20 Housewatch Duty.pdf",
+          "pages": 4
+        },
+        {
+          "name": "021 Chapter 21 Roll Calls Formation and Related Duties",
+          "source": "17_Regulations For The Uniformed Force/021_Chapter 21 Roll Calls Formation and Related Duties.pdf",
+          "pages": 12
+        },
+        {
+          "name": "022 Chapter 22 Training",
+          "source": "17_Regulations For The Uniformed Force/022_Chapter 22 Training.pdf",
+          "pages": 6
+        },
+        {
+          "name": "023 Chapter 23 Meritorious and Voluntary Duty Acts",
+          "source": "17_Regulations For The Uniformed Force/023_Chapter 23 Meritorious and Voluntary Duty Acts.pdf",
+          "pages": 10
+        },
+        {
+          "name": "024 Chapter 24 Messenger Service",
+          "source": "17_Regulations For The Uniformed Force/024_Chapter 24 Messenger Service.pdf",
+          "pages": 2
+        },
+        {
+          "name": "025 Chapter 25 General Deportment",
+          "source": "17_Regulations For The Uniformed Force/025_Chapter 25 General Deportment.pdf",
+          "pages": 6
+        },
+        {
+          "name": "026 Chapter 26 Discipline Charges",
+          "source": "17_Regulations For The Uniformed Force/026_Chapter 26 Discipline Charges.pdf",
+          "pages": 6
+        },
+        {
+          "name": "027 Chapter 27 Annual Inspection",
+          "source": "17_Regulations For The Uniformed Force/027_Chapter 27 Annual Inspection.pdf",
+          "pages": 4
+        },
+        {
+          "name": "028 Chapter 28 Hydrant Maintenance",
+          "source": "17_Regulations For The Uniformed Force/028_Chapter 28 Hydrant Maintenance.pdf",
+          "pages": 4
+        },
+        {
+          "name": "029 Chapter 29 Uniforms and Equipment",
+          "source": "17_Regulations For The Uniformed Force/029_Chapter 29 Uniforms and Equipment.pdf",
+          "pages": 10
+        },
+        {
+          "name": "030 Chapter 30 Reports",
+          "source": "17_Regulations For The Uniformed Force/030_Chapter 30 Reports.pdf",
+          "pages": 4
+        },
+        {
+          "name": "031 Chapter 31 Bureau of Health Servies",
+          "source": "17_Regulations For The Uniformed Force/031_Chapter 31 Bureau of Health Servies.pdf",
+          "pages": 4
+        },
+        {
+          "name": "032 Chapter 32 Welfare and Related Services",
+          "source": "17_Regulations For The Uniformed Force/032_Chapter 32 Welfare and Related Services.pdf",
+          "pages": 4
+        }
+      ],
+      "size_chars": 355201
+    },
+    {
+      "category": "18_Requisitions & Payroll & Property Accountability (R & P Manual)",
+      "filename": "18_Requisitions_Payroll_Property_Accountability_R_P_Manual.md",
+      "document_count": 4,
+      "total_pages": 24,
+      "chapters": [
+        {
+          "name": "001 R&P-cover",
+          "source": "18_Requisitions & Payroll & Property Accountability (R & P Manual)/001_R&P-cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 R&P-index",
+          "source": "18_Requisitions & Payroll & Property Accountability (R & P Manual)/002_R&P-index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 R&P-1",
+          "source": "18_Requisitions & Payroll & Property Accountability (R & P Manual)/003_R&P-1.pdf",
+          "pages": 16
+        },
+        {
+          "name": "004 R&P-2",
+          "source": "18_Requisitions & Payroll & Property Accountability (R & P Manual)/004_R&P-2.pdf",
+          "pages": 4
+        }
+      ],
+      "size_chars": 40890
+    },
+    {
+      "category": "19_Safety Bulletins",
+      "filename": "19_Safety_Bulletins.md",
+      "document_count": 33,
+      "total_pages": 134,
+      "chapters": [
+        {
+          "name": "001 Safety Bulletins Cover",
+          "source": "19_Safety Bulletins/000 - Safety Bulletin Cover & Index/001_Safety Bulletins Cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Safety Bulletins Index",
+          "source": "19_Safety Bulletins/000 - Safety Bulletin Cover & Index/002_Safety Bulletins Index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 Safety Bulletin 1 Index",
+          "source": "19_Safety Bulletins/Safety Bulletin 1 - Injury & Exposure Reporting/001_Safety Bulletin 1 Index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Safety Bulletin 1",
+          "source": "19_Safety Bulletins/Safety Bulletin 1 - Injury & Exposure Reporting/002_Safety Bulletin 1.pdf",
+          "pages": 8
+        },
+        {
+          "name": "003 Safety Bulletin 1 Addendum 1",
+          "source": "19_Safety Bulletins/Safety Bulletin 1 - Injury & Exposure Reporting/003_Safety Bulletin 1 Addendum 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "004 Safety Bulletin 1 Addendum 2",
+          "source": "19_Safety Bulletins/Safety Bulletin 1 - Injury & Exposure Reporting/004_Safety Bulletin 1 Addendum 2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 Safety Bulletin 2 Index",
+          "source": "19_Safety Bulletins/Safety Bulletin 2 - Operating Fire Apparatus/001_Safety Bulletin 2 Index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Safety Bulletin 2 Chapter 1",
+          "source": "19_Safety Bulletins/Safety Bulletin 2 - Operating Fire Apparatus/002_Safety Bulletin 2 Chapter 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 Safety Bulletin 2 Chapter 2",
+          "source": "19_Safety Bulletins/Safety Bulletin 2 - Operating Fire Apparatus/003_Safety Bulletin 2 Chapter 2.pdf",
+          "pages": 8
+        },
+        {
+          "name": "004 Safety Bulletin 2 Chapter 3",
+          "source": "19_Safety Bulletins/Safety Bulletin 2 - Operating Fire Apparatus/004_Safety Bulletin 2 Chapter 3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005 Safety Bulletin 2 Chapter 4",
+          "source": "19_Safety Bulletins/Safety Bulletin 2 - Operating Fire Apparatus/005_Safety Bulletin 2 Chapter 4.pdf",
+          "pages": 4
+        },
+        {
+          "name": "006 Safety Bulletin 2 Chapter 5",
+          "source": "19_Safety Bulletins/Safety Bulletin 2 - Operating Fire Apparatus/006_Safety Bulletin 2 Chapter 5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "007 Safety Bulletin 2 Chapter 6",
+          "source": "19_Safety Bulletins/Safety Bulletin 2 - Operating Fire Apparatus/007_Safety Bulletin 2 Chapter 6.pdf",
+          "pages": 4
+        },
+        {
+          "name": "008 Safety Bulletin 2 Chapter 7",
+          "source": "19_Safety Bulletins/Safety Bulletin 2 - Operating Fire Apparatus/008_Safety Bulletin 2 Chapter 7.pdf",
+          "pages": 4
+        },
+        {
+          "name": "009 Safety Bulletin 2 Chapter 8",
+          "source": "19_Safety Bulletins/Safety Bulletin 2 - Operating Fire Apparatus/009_Safety Bulletin 2 Chapter 8.pdf",
+          "pages": 6
+        },
+        {
+          "name": "001 Safety Bulletin 3 Index",
+          "source": "19_Safety Bulletins/Safety Bulletin 3 - Apparatus Collision Reporting/001_Safety Bulletin 3 Index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Safety Bulletin 3",
+          "source": "19_Safety Bulletins/Safety Bulletin 3 - Apparatus Collision Reporting/002_Safety Bulletin 3.pdf",
+          "pages": 12
+        },
+        {
+          "name": "003 Safety Bulletin 3 Addendum 1",
+          "source": "19_Safety Bulletins/Safety Bulletin 3 - Apparatus Collision Reporting/003_Safety Bulletin 3 Addendum 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "004 Safety Bulletin 3 Addendum 2",
+          "source": "19_Safety Bulletins/Safety Bulletin 3 - Apparatus Collision Reporting/004_Safety Bulletin 3 Addendum 2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005 Safety Bulletin 3 Addendum 3",
+          "source": "19_Safety Bulletins/Safety Bulletin 3 - Apparatus Collision Reporting/005_Safety Bulletin 3 Addendum 3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "006 Safety Bulletin 3 Addendum 4",
+          "source": "19_Safety Bulletins/Safety Bulletin 3 - Apparatus Collision Reporting/006_Safety Bulletin 3 Addendum 4.pdf",
+          "pages": 12
+        },
+        {
+          "name": "001 Safety Bulletin 4 Index",
+          "source": "19_Safety Bulletins/Safety Bulletin 4 - Quarters/001_Safety Bulletin 4 Index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Safety Bulletin 4 Chapter 1",
+          "source": "19_Safety Bulletins/Safety Bulletin 4 - Quarters/002_Safety Bulletin 4 Chapter 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 Safety Bulletin 4 Chapter 2",
+          "source": "19_Safety Bulletins/Safety Bulletin 4 - Quarters/003_Safety Bulletin 4 Chapter 2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 Safety Bulletin 5",
+          "source": "19_Safety Bulletins/Safety Bulletin 5 - Division Safety Committees/001_Safety Bulletin 5.pdf",
+          "pages": 4
+        },
+        {
+          "name": "001 Safety Bulletin 6",
+          "source": "19_Safety Bulletins/Safety Bulletin 6 - Pass It On Program/001_Safety Bulletin 6.pdf",
+          "pages": 4
+        },
+        {
+          "name": "001 Safety Bulletin 7 Index",
+          "source": "19_Safety Bulletins/Safety Bulletin 7 - General Operational Concerns/001_Safety Bulletin 7 Index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 Safety Bulletin 7 Chapter 1",
+          "source": "19_Safety Bulletins/Safety Bulletin 7 - General Operational Concerns/002_Safety Bulletin 7 Chapter 1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "003 Safety Bulletin 7 Chapter 2",
+          "source": "19_Safety Bulletins/Safety Bulletin 7 - General Operational Concerns/003_Safety Bulletin 7 Chapter 2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "004 Safety Bulletin 7 Chapter 3",
+          "source": "19_Safety Bulletins/Safety Bulletin 7 - General Operational Concerns/004_Safety Bulletin 7 Chapter 3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005 Safety Bulletin 7 Chapter 4",
+          "source": "19_Safety Bulletins/Safety Bulletin 7 - General Operational Concerns/005_Safety Bulletin 7 Chapter 4.pdf",
+          "pages": 6
+        },
+        {
+          "name": "006 Safety Bulletin 7 Chapter 5",
+          "source": "19_Safety Bulletins/Safety Bulletin 7 - General Operational Concerns/006_Safety Bulletin 7 Chapter 5.pdf",
+          "pages": 10
+        },
+        {
+          "name": "007 Safety Bulletin 7 Chapter 6",
+          "source": "19_Safety Bulletins/Safety Bulletin 7 - General Operational Concerns/007_Safety Bulletin 7 Chapter 6.pdf",
+          "pages": 2
+        }
+      ],
+      "size_chars": 185442
+    },
+    {
+      "category": "20_TPR Manual (Timekeeping Manual)",
+      "filename": "20_TPR_Manual_Timekeeping_Manual.md",
+      "document_count": 1,
+      "total_pages": 28,
+      "chapters": [
+        {
+          "name": "Tpr-1",
+          "source": "20_TPR Manual (Timekeeping Manual)/Tpr-1.pdf",
+          "pages": 28
+        }
+      ],
+      "size_chars": 50544
+    },
+    {
+      "category": "21_Training Bulletins",
+      "filename": "21_Training_Bulletins.md",
+      "document_count": 138,
+      "total_pages": 802,
+      "chapters": [
+        {
+          "name": "000 TB-cover ",
+          "source": "21_Training Bulletins/000 - Cover & Index/000_TB-cover .pdf",
+          "pages": 2
+        },
+        {
+          "name": "000 TB-index",
+          "source": "21_Training Bulletins/000 - Cover & Index/000_TB-index.pdf",
+          "pages": 6
+        },
+        {
+          "name": "001 Apparatus Care & Maintenance",
+          "source": "21_Training Bulletins/001 - Apparatus/001_Apparatus Care & Maintenance.pdf",
+          "pages": 10
+        },
+        {
+          "name": "002 Apparatus Add 1 - Snow Chains",
+          "source": "21_Training Bulletins/001 - Apparatus/002_Apparatus Add 1 - Snow Chains.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 Apparatus Add 2 - Security Decals",
+          "source": "21_Training Bulletins/001 - Apparatus/003_Apparatus Add 2 - Security Decals.pdf",
+          "pages": 4
+        },
+        {
+          "name": "004 Apparatus Add 3 - Vehicle Recovery Straps",
+          "source": "21_Training Bulletins/001 - Apparatus/004_Apparatus Add 3 - Vehicle Recovery Straps.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005 Rearmount Aerial Ladder",
+          "source": "21_Training Bulletins/001 - Apparatus/005_Rearmount Aerial Ladder.pdf",
+          "pages": 12
+        },
+        {
+          "name": "ARSON-1",
+          "source": "21_Training Bulletins/002 - Arson/ARSON-1.pdf",
+          "pages": 16
+        },
+        {
+          "name": "011 EMG3",
+          "source": "21_Training Bulletins/003 - Emergencies/011_EMG3.pdf",
+          "pages": 20
+        },
+        {
+          "name": "EEO-1",
+          "source": "21_Training Bulletins/004 - Equal Employment Opportunity/EEO-1.pdf",
+          "pages": 12
+        },
+        {
+          "name": "FP-3",
+          "source": "21_Training Bulletins/005 - Fire Prevention/FP-3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "FIRES2",
+          "source": "21_Training Bulletins/006 - Fires/FIRES2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "FIRES4",
+          "source": "21_Training Bulletins/006 - Fires/FIRES4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "FIRES7",
+          "source": "21_Training Bulletins/006 - Fires/FIRES7.pdf",
+          "pages": 16
+        },
+        {
+          "name": "FIRES8",
+          "source": "21_Training Bulletins/006 - Fires/FIRES8.pdf",
+          "pages": 22
+        },
+        {
+          "name": "FIRES8A1",
+          "source": "21_Training Bulletins/006 - Fires/FIRES8A1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 Foam",
+          "source": "21_Training Bulletins/007 - Foam/001_Foam.pdf",
+          "pages": 32
+        },
+        {
+          "name": "002 Foam a1",
+          "source": "21_Training Bulletins/007 - Foam/002_Foam a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 Foam a3",
+          "source": "21_Training Bulletins/007 - Foam/003_Foam a3.pdf",
+          "pages": 6
+        },
+        {
+          "name": "004 Foam ev1",
+          "source": "21_Training Bulletins/007 - Foam/004_Foam ev1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "005 Foam ev2",
+          "source": "21_Training Bulletins/007 - Foam/005_Foam ev2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "006 Foam ev3",
+          "source": "21_Training Bulletins/007 - Foam/006_Foam ev3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "007 Foam ev4",
+          "source": "21_Training Bulletins/007 - Foam/007_Foam ev4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "008 Foam ev5",
+          "source": "21_Training Bulletins/007 - Foam/008_Foam ev5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "009 Foam ds1",
+          "source": "21_Training Bulletins/007 - Foam/009_Foam ds1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "010 Foam ds2",
+          "source": "21_Training Bulletins/007 - Foam/010_Foam ds2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "011 Foam ds3",
+          "source": "21_Training Bulletins/007 - Foam/011_Foam ds3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "FE1",
+          "source": "21_Training Bulletins/008 - Forcible Entry/FE1.pdf",
+          "pages": 18
+        },
+        {
+          "name": "FE2",
+          "source": "21_Training Bulletins/008 - Forcible Entry/FE2.pdf",
+          "pages": 8
+        },
+        {
+          "name": "000 Fire Dynamics  Index",
+          "source": "21_Training Bulletins/009 - Fire Dynamics/000_Fire Dynamics  Index.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 Fire Dynamics Chapter 1",
+          "source": "21_Training Bulletins/009 - Fire Dynamics/001_Fire Dynamics Chapter 1.pdf",
+          "pages": 12
+        },
+        {
+          "name": "002 Fire Dynamics Chapter 2",
+          "source": "21_Training Bulletins/009 - Fire Dynamics/002_Fire Dynamics Chapter 2.pdf",
+          "pages": 12
+        },
+        {
+          "name": "003 Fire Dynamics Chapter 3",
+          "source": "21_Training Bulletins/009 - Fire Dynamics/003_Fire Dynamics Chapter 3.pdf",
+          "pages": 8
+        },
+        {
+          "name": "004 Fire Dynamics Chapter 4",
+          "source": "21_Training Bulletins/009 - Fire Dynamics/004_Fire Dynamics Chapter 4.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005 Fire Dynamics Addendum 1",
+          "source": "21_Training Bulletins/009 - Fire Dynamics/005_Fire Dynamics Addendum 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "006 Fire Dynamics Addendum 2",
+          "source": "21_Training Bulletins/009 - Fire Dynamics/006_Fire Dynamics Addendum 2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "Human Performance",
+          "source": "21_Training Bulletins/010 - Human Performance/Human Performance.pdf",
+          "pages": 6
+        },
+        {
+          "name": "PUR-K",
+          "source": "21_Training Bulletins/011 - Purple K Dry Chemical Extinguisher/PUR-K.pdf",
+          "pages": 14
+        },
+        {
+          "name": "PUR-Ka1",
+          "source": "21_Training Bulletins/011 - Purple K Dry Chemical Extinguisher/PUR-Ka1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "001 Rope 1",
+          "source": "21_Training Bulletins/012 - Rope/001_Rope 1.pdf",
+          "pages": 8
+        },
+        {
+          "name": "002 Rope 1 Data Sheet 1",
+          "source": "21_Training Bulletins/012 - Rope/002_Rope 1 Data Sheet 1.pdf",
+          "pages": 8
+        },
+        {
+          "name": "003 Rope 1 Data Sheet 2",
+          "source": "21_Training Bulletins/012 - Rope/003_Rope 1 Data Sheet 2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "004 Rope 1 Data Sheet 3",
+          "source": "21_Training Bulletins/012 - Rope/004_Rope 1 Data Sheet 3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "005 Rope 1 Data Sheet 4",
+          "source": "21_Training Bulletins/012 - Rope/005_Rope 1 Data Sheet 4.pdf",
+          "pages": 8
+        },
+        {
+          "name": "006 Rope 1 Data Sheet 5",
+          "source": "21_Training Bulletins/012 - Rope/006_Rope 1 Data Sheet 5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "007 Rope 2",
+          "source": "21_Training Bulletins/012 - Rope/007_Rope 2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "008 Rope 2 Data Sheet 1",
+          "source": "21_Training Bulletins/012 - Rope/008_Rope 2 Data Sheet 1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "009 Rope 2 Data Sheet 2",
+          "source": "21_Training Bulletins/012 - Rope/009_Rope 2 Data Sheet 2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "010 Rope 3",
+          "source": "21_Training Bulletins/012 - Rope/010_Rope 3.pdf",
+          "pages": 12
+        },
+        {
+          "name": "011 Rope 3a1",
+          "source": "21_Training Bulletins/012 - Rope/011_Rope 3a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "012 Rope 4",
+          "source": "21_Training Bulletins/012 - Rope/012_Rope 4.pdf",
+          "pages": 10
+        },
+        {
+          "name": "013 Rope 4 Data Sheet 1",
+          "source": "21_Training Bulletins/012 - Rope/013_Rope 4 Data Sheet 1.pdf",
+          "pages": 6
+        },
+        {
+          "name": "014 Rope 4a1",
+          "source": "21_Training Bulletins/012 - Rope/014_Rope 4a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "015 Rope 4a2",
+          "source": "21_Training Bulletins/012 - Rope/015_Rope 4a2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "016 Rope 4a3",
+          "source": "21_Training Bulletins/012 - Rope/016_Rope 4a3.pdf",
+          "pages": 4
+        },
+        {
+          "name": "017 Rope 5",
+          "source": "21_Training Bulletins/012 - Rope/017_Rope 5.pdf",
+          "pages": 10
+        },
+        {
+          "name": "019 Rope 6",
+          "source": "21_Training Bulletins/012 - Rope/019_Rope 6.pdf",
+          "pages": 8
+        },
+        {
+          "name": "020 Rope 7",
+          "source": "21_Training Bulletins/012 - Rope/020_Rope 7.pdf",
+          "pages": 2
+        },
+        {
+          "name": "021 Rope 8",
+          "source": "21_Training Bulletins/012 - Rope/021_Rope 8.pdf",
+          "pages": 2
+        },
+        {
+          "name": "022 Rope 9",
+          "source": "21_Training Bulletins/012 - Rope/022_Rope 9.pdf",
+          "pages": 4
+        },
+        {
+          "name": "030 Rope 11",
+          "source": "21_Training Bulletins/012 - Rope/030_Rope 11.pdf",
+          "pages": 6
+        },
+        {
+          "name": "Salvage1",
+          "source": "21_Training Bulletins/013 - Salvage/Salvage1.pdf",
+          "pages": 12
+        },
+        {
+          "name": "001 SCBA",
+          "source": "21_Training Bulletins/014 - SCBA (Self-Contained Breathing Apparatus)/001_SCBA.pdf",
+          "pages": 44
+        },
+        {
+          "name": "002 SCBA Appendix 1",
+          "source": "21_Training Bulletins/014 - SCBA (Self-Contained Breathing Apparatus)/002_SCBA Appendix 1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "003 SCBA A1",
+          "source": "21_Training Bulletins/014 - SCBA (Self-Contained Breathing Apparatus)/003_SCBA A1.pdf",
+          "pages": 12
+        },
+        {
+          "name": "004 SCBA A2",
+          "source": "21_Training Bulletins/014 - SCBA (Self-Contained Breathing Apparatus)/004_SCBA A2.pdf",
+          "pages": 10
+        },
+        {
+          "name": "005 SCBA A3",
+          "source": "21_Training Bulletins/014 - SCBA (Self-Contained Breathing Apparatus)/005_SCBA A3.pdf",
+          "pages": 8
+        },
+        {
+          "name": "006 SCBA A4",
+          "source": "21_Training Bulletins/014 - SCBA (Self-Contained Breathing Apparatus)/006_SCBA A4.pdf",
+          "pages": 14
+        },
+        {
+          "name": "007 SCBA A5",
+          "source": "21_Training Bulletins/014 - SCBA (Self-Contained Breathing Apparatus)/007_SCBA A5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "009 SCBA A7",
+          "source": "21_Training Bulletins/014 - SCBA (Self-Contained Breathing Apparatus)/009_SCBA A7.pdf",
+          "pages": 2
+        },
+        {
+          "name": "010 SCBA A8",
+          "source": "21_Training Bulletins/014 - SCBA (Self-Contained Breathing Apparatus)/010_SCBA A8.pdf",
+          "pages": 12
+        },
+        {
+          "name": "011 SCBA A9",
+          "source": "21_Training Bulletins/014 - SCBA (Self-Contained Breathing Apparatus)/011_SCBA A9.pdf",
+          "pages": 6
+        },
+        {
+          "name": "012 SCBA A10",
+          "source": "21_Training Bulletins/014 - SCBA (Self-Contained Breathing Apparatus)/012_SCBA A10.pdf",
+          "pages": 2
+        },
+        {
+          "name": "013 SCBA A11",
+          "source": "21_Training Bulletins/014 - SCBA (Self-Contained Breathing Apparatus)/013_SCBA A11.pdf",
+          "pages": 6
+        },
+        {
+          "name": "Search1",
+          "source": "21_Training Bulletins/015 - Search/Search1.pdf",
+          "pages": 20
+        },
+        {
+          "name": "T-01",
+          "source": "21_Training Bulletins/016 - Tools/T-01.pdf",
+          "pages": 6
+        },
+        {
+          "name": "T-02",
+          "source": "21_Training Bulletins/016 - Tools/T-02.pdf",
+          "pages": 4
+        },
+        {
+          "name": "T-02a1",
+          "source": "21_Training Bulletins/016 - Tools/T-02a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-03",
+          "source": "21_Training Bulletins/016 - Tools/T-03.pdf",
+          "pages": 4
+        },
+        {
+          "name": "T-03a1",
+          "source": "21_Training Bulletins/016 - Tools/T-03a1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "T-03a2",
+          "source": "21_Training Bulletins/016 - Tools/T-03a2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-04",
+          "source": "21_Training Bulletins/016 - Tools/T-04.pdf",
+          "pages": 4
+        },
+        {
+          "name": "T-04D1",
+          "source": "21_Training Bulletins/016 - Tools/T-04D1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "T-08",
+          "source": "21_Training Bulletins/016 - Tools/T-08.pdf",
+          "pages": 6
+        },
+        {
+          "name": "T-09",
+          "source": "21_Training Bulletins/016 - Tools/T-09.pdf",
+          "pages": 16
+        },
+        {
+          "name": "T-09a1",
+          "source": "21_Training Bulletins/016 - Tools/T-09a1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "T-09a2",
+          "source": "21_Training Bulletins/016 - Tools/T-09a2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-09a3",
+          "source": "21_Training Bulletins/016 - Tools/T-09a3.pdf",
+          "pages": 6
+        },
+        {
+          "name": "T-10 - Hurst Tool",
+          "source": "21_Training Bulletins/016 - Tools/T-10 - Hurst Tool.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d1",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d2",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d3",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d4",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d5",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d6",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d6.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d7",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d7.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d8",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d8.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d9",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d9.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d10",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d10.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d11",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d11.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d12",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d12.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d13",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d13.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d14",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d14.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d15",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d15.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d16",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d16.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d17",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d17.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d18",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d18.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d19",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d19.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d20",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d20.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10 d21",
+          "source": "21_Training Bulletins/016 - Tools/T-10 d21.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10a1",
+          "source": "21_Training Bulletins/016 - Tools/T-10a1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10a1d1",
+          "source": "21_Training Bulletins/016 - Tools/T-10a1d1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10a1d2",
+          "source": "21_Training Bulletins/016 - Tools/T-10a1d2.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10a1d3",
+          "source": "21_Training Bulletins/016 - Tools/T-10a1d3.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10a1d4",
+          "source": "21_Training Bulletins/016 - Tools/T-10a1d4.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10a1d5",
+          "source": "21_Training Bulletins/016 - Tools/T-10a1d5.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-10a1d6",
+          "source": "21_Training Bulletins/016 - Tools/T-10a1d6.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-20",
+          "source": "21_Training Bulletins/016 - Tools/T-20.pdf",
+          "pages": 16
+        },
+        {
+          "name": "T-22",
+          "source": "21_Training Bulletins/016 - Tools/T-22.pdf",
+          "pages": 8
+        },
+        {
+          "name": "T-24",
+          "source": "21_Training Bulletins/016 - Tools/T-24.pdf",
+          "pages": 18
+        },
+        {
+          "name": "T-24a1",
+          "source": "21_Training Bulletins/016 - Tools/T-24a1.pdf",
+          "pages": 4
+        },
+        {
+          "name": "T-26",
+          "source": "21_Training Bulletins/016 - Tools/T-26.pdf",
+          "pages": 4
+        },
+        {
+          "name": "T-27",
+          "source": "21_Training Bulletins/016 - Tools/T-27.pdf",
+          "pages": 10
+        },
+        {
+          "name": "T-27d1",
+          "source": "21_Training Bulletins/016 - Tools/T-27d1.pdf",
+          "pages": 10
+        },
+        {
+          "name": "T-28",
+          "source": "21_Training Bulletins/016 - Tools/T-28.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-28d1",
+          "source": "21_Training Bulletins/016 - Tools/T-28d1.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-28d2",
+          "source": "21_Training Bulletins/016 - Tools/T-28d2.pdf",
+          "pages": 4
+        },
+        {
+          "name": "T-30",
+          "source": "21_Training Bulletins/016 - Tools/T-30.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-31",
+          "source": "21_Training Bulletins/016 - Tools/T-31.pdf",
+          "pages": 8
+        },
+        {
+          "name": "T-32",
+          "source": "21_Training Bulletins/016 - Tools/T-32.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-33",
+          "source": "21_Training Bulletins/016 - Tools/T-33.pdf",
+          "pages": 4
+        },
+        {
+          "name": "T-34",
+          "source": "21_Training Bulletins/016 - Tools/T-34.pdf",
+          "pages": 6
+        },
+        {
+          "name": "T-35",
+          "source": "21_Training Bulletins/016 - Tools/T-35.pdf",
+          "pages": 10
+        },
+        {
+          "name": "T-37",
+          "source": "21_Training Bulletins/016 - Tools/T-37.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-39",
+          "source": "21_Training Bulletins/016 - Tools/T-39.pdf",
+          "pages": 2
+        },
+        {
+          "name": "T-40",
+          "source": "21_Training Bulletins/016 - Tools/T-40.pdf",
+          "pages": 8
+        },
+        {
+          "name": "T-41",
+          "source": "21_Training Bulletins/016 - Tools/T-41.pdf",
+          "pages": 4
+        },
+        {
+          "name": "T-42",
+          "source": "21_Training Bulletins/016 - Tools/T-42.pdf",
+          "pages": 2
+        }
+      ],
+      "size_chars": 1147108
+    },
+    {
+      "category": "22_Uniform Filing System",
+      "filename": "22_Uniform_Filing_System.md",
+      "document_count": 2,
+      "total_pages": 16,
+      "chapters": [
+        {
+          "name": "001 UFS-cover",
+          "source": "22_Uniform Filing System/001_UFS-cover.pdf",
+          "pages": 2
+        },
+        {
+          "name": "002 UFS",
+          "source": "22_Uniform Filing System/002_UFS.pdf",
+          "pages": 14
+        }
+      ],
+      "size_chars": 14599
+    }
+  ]
+}
